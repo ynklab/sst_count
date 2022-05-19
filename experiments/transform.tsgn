@@ -1,0 +1,86 @@
+%/^Sdcl\\NP/ < (/^<Sdcl\\NP>\/NP;VBD;O$/=y $. (NP=z < (N <-1 (N;NNS;O < times))))
+%
+%relabel z /^NP$/<S\\NP>\\<S\\NP>/
+%relabel y /<Sdcl\\NP>\/NP/<Sdcl\\NP>/
+
+%/^Sdcl\\NP/ < ((/^<Sdcl\\NP>/=y !< /[A-Z]/) $. (/^NP$/=z <1 (/^NP\/NP$/=a <1 (__ <: /less|more/) <-1 (__=b <: than)) <-1 (NP=c < (__=d < /once|twice/))))
+%
+%relabel y /<Sdcl\\NP>;VBD;O/
+%adjoin (<S\\NP>\\<S\\NP> (N@)) z
+%relabel a /N\/N/
+%relabel b /<N\/N>\\<Sadj\\NP>;IN;O/
+%excise c c
+
+% from 
+% (<S\NP>\<S\NP> 
+%     (<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>;RB;O exactly) 
+%     (<S\NP>\<S\NP> 
+%         (<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>;CD;B-CARDINAL n) 
+%         (<S\NP>\<S\NP>;NNS;O times)))
+% to   
+% (<S\NP>\<S\NP> 
+%    (<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>
+%        (<<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>>;RB;O exactly)
+%        (<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>;CD;B-CARDINAL n))
+%    (<S\NP>\<S\NP>;NNS;O times))
+
+/^<S\\NP>\\<S\\NP>$/=x <1 (/^<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>;RB/=y < /^exactly$/) <2 (/^<S\\NP>\\<S\\NP>$/=z <1 (/^<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>;CD;/=a) <2 (/^<S\\NP>\\<S\\NP>;/=b < /^times$/))
+
+adjoinF (<<S\\NP>\\<S\\NP>>/<<S\\NP>\\<S\\NP>> @) y
+insert a $- y
+delete a
+excise z z
+relabel y /<<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>>\/<<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>>/
+
+%from
+%(<S\NP>\<S\NP> 
+%    (<S\NP>\<S\NP>;JJR;O less) 
+%    (<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>> 
+%        (<<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>>>/<Sadj\NP>;IN;O than) 
+%        (Sadj\NP;RB;O once/twice)))
+%to 
+%(<S\NP>\<S\NP> 
+%    (<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>>
+%        (<S\NP>;JJR;O less) 
+%        (<<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>>>\<S\NP>;IN;O than))
+%    (<S\NP>\<S\NP>;RB;O once/twice))
+
+
+/^<S\\NP>\\<S\\NP>$/ <1 (/^<S\\NP>\\<S\\NP>;/=y <: /less|more/) <2 (/^<<S\\NP>\\<S\\NP>>\\<<S\\NP>\\<S\\NP>>$/=z <1 (/^<<<S\\NP>\\<S\\NP>>\\<<S\\NP>\\<S\\NP>>>\/<Sadj\\NP>;/=a <: /than/) <2 (/^Sadj\\NP;/=b <: /once|twice/))
+
+adjoinF (<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>> @) y
+insert a $- y
+delete a
+excise z z
+relabel y /S\\NP/
+relabel a /<<<S\\NP>\\<S\\NP>>\\<<S\\NP>\\<S\\NP>>>\\<S\\NP>/
+relabel b /<S\\NP>\\<S\\NP>/
+
+%from
+%(<S\NP>\<S\NP> 
+%    (<S\NP>\<S\NP> 
+%        (<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>;DT;O no) 
+%        (<S\NP>\<S\NP>;RBR;O more)) 
+%    (<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>> 
+%        (<<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>>>/<Sadj\NP>;IN;O than) 
+%        (Sadj\NP;RB;O twice)))
+%to 
+%(<S\NP>\<S\NP> 
+%    (<<S\NP>\<S\NP>>\<<S\NP>\<S\NP>>
+%        (S\NP
+%            (<<S\NP>/<S\NP>>;DT;O no) 
+%            (S\NP;RBR;O more)) 
+%        (<<<S\NP>\<S\NP>>/<<S\NP>\<S\NP>>>\<S\NP>;IN;O than) 
+%    (Sadj\NP;RB;O twice)))
+
+/^<S\\NP>\\<S\\NP>$/ <1 (/^<S\\NP>\\<S\\NP>$/=y <1 (/^<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>;/=c <: /no/) <2 (/^<S\\NP>\\<S\\NP>;/=d <: /less|more/)) <2 (/^<<S\\NP>\\<S\\NP>>\\<<S\\NP>\\<S\\NP>>$/=z <1 (/^<<<S\\NP>\\<S\\NP>>\\<<S\\NP>\\<S\\NP>>>\/<Sadj\\NP>;/=a <: /than/) <2 (/^Sadj\\NP;/=b <: /once|twice/))
+
+adjoinF (<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>> @) y
+relabel a /<<<S\\NP>\\<S\\NP>>\/<<S\\NP>\\<S\\NP>>>\\<Sadj\\NP>/
+insert a $- y
+delete a
+excise z z
+relabel y /S\\NP/
+relabel b /<S\\NP>\\<S\\NP>/
+relabel c /<S\\NP>\/<S\\NP>/
+relabel d /<S\\NP>/

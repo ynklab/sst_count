@@ -1,0 +1,1980 @@
+case_index	table_id	hypothesis	label
+0-0	T12	Faroe Islands has less than two languages.	C
+0-1	T12	Faroe Islands has less than three languages.	E
+0-8	T12	Faroe Islands has no more than one language.	C
+0-9	T12	Faroe Islands has no more than two languages.	E
+0-10	T12	Faroe Islands has no more than three languages.	E
+0-11	T12	Faroe Islands has exactly one language.	C
+0-12	T12	Faroe Islands has exactly two languages.	E
+0-13	T12	Faroe Islands has exactly three languages.	C
+0-14	T12	Faroe Islands has one language.	E
+0-15	T12	Faroe Islands has two languages.	E
+0-16	T12	Faroe Islands has three languages.	C
+0-17	T12	Faroe Islands has at least one language.	E
+0-18	T12	Faroe Islands has at least two languages.	E
+0-19	T12	Faroe Islands has at least three languages.	C
+0-23	T12	Faroe Islands has no less than one language.	E
+0-24	T12	Faroe Islands has no less than two languages.	E
+0-25	T12	Faroe Islands has no less than three languages.	C
+0-26	T12	Faroe Islands has more than one language.	E
+0-27	T12	Faroe Islands has more than two languages.	C
+0-28	T12	Faroe Islands has more than three languages.	C
+1-0	T17	Bryce Dallas Howard has less than two children.	C
+1-1	T17	Bryce Dallas Howard has less than three children.	E
+1-8	T17	Bryce Dallas Howard has no more than one child.	C
+1-9	T17	Bryce Dallas Howard has no more than two children.	E
+1-10	T17	Bryce Dallas Howard has no more than three children.	E
+1-11	T17	Bryce Dallas Howard has exactly one child.	C
+1-12	T17	Bryce Dallas Howard has exactly two children.	E
+1-13	T17	Bryce Dallas Howard has exactly three children.	C
+1-14	T17	Bryce Dallas Howard has one child.	E
+1-15	T17	Bryce Dallas Howard has two children.	E
+1-16	T17	Bryce Dallas Howard has three children.	C
+1-17	T17	Bryce Dallas Howard has at least one child.	E
+1-18	T17	Bryce Dallas Howard has at least two children.	E
+1-19	T17	Bryce Dallas Howard has at least three children.	C
+1-23	T17	Bryce Dallas Howard has no less than one child.	E
+1-24	T17	Bryce Dallas Howard has no less than two children.	E
+1-25	T17	Bryce Dallas Howard has no less than three children.	C
+1-26	T17	Bryce Dallas Howard has more than one child.	E
+1-27	T17	Bryce Dallas Howard has more than two children.	C
+1-28	T17	Bryce Dallas Howard has more than three children.	C
+2-0	T68	Jet has made music for less than three companies.	C
+2-1	T68	Jet has made music for less than four companies.	C
+2-2	T68	Jet has made music for less than five companies.	E
+2-9	T68	Jet has made music for no more than three companies.	C
+2-10	T68	Jet has made music for no more than four companies.	E
+2-11	T68	Jet has made music for no more than five companies.	E
+2-12	T68	Jet has made music for exactly three companies.	C
+2-13	T68	Jet has made music for exactly four companies.	E
+2-14	T68	Jet has made music for exactly five companies.	C
+2-15	T68	Jet has made music for three companies.	E
+2-16	T68	Jet has made music for four companies.	E
+2-17	T68	Jet has made music for five companies.	C
+2-18	T68	Jet has made music for at least three companies.	E
+2-19	T68	Jet has made music for at least four companies.	E
+2-20	T68	Jet has made music for at least five companies.	C
+2-24	T68	Jet has made music for no less than three companies.	E
+2-25	T68	Jet has made music for no less than four companies.	E
+2-26	T68	Jet has made music for no less than five companies.	C
+2-27	T68	Jet has made music for more than three companies.	E
+2-28	T68	Jet has made music for more than four companies.	C
+2-29	T68	Jet has made music for more than five companies.	C
+3-0	T74	Katharine McPhee has been with less than four labels.	C
+3-1	T74	Katharine McPhee has been with less than five labels.	C
+3-2	T74	Katharine McPhee has been with less than six labels.	E
+3-9	T74	Katharine McPhee has been with no more than four labels.	C
+3-10	T74	Katharine McPhee has been with no more than five labels.	E
+3-11	T74	Katharine McPhee has been with no more than six labels.	E
+3-12	T74	Katharine McPhee has been with exactly four labels.	C
+3-13	T74	Katharine McPhee has been with exactly five labels.	E
+3-14	T74	Katharine McPhee has been with exactly six labels.	C
+3-15	T74	Katharine McPhee has been with four labels.	E
+3-16	T74	Katharine McPhee has been with five labels.	E
+3-17	T74	Katharine McPhee has been with six labels.	C
+3-18	T74	Katharine McPhee has been with at least four labels.	E
+3-19	T74	Katharine McPhee has been with at least five labels.	E
+3-20	T74	Katharine McPhee has been with at least six labels.	C
+3-24	T74	Katharine McPhee has been with no less than four labels.	E
+3-25	T74	Katharine McPhee has been with no less than five labels.	E
+3-26	T74	Katharine McPhee has been with no less than six labels.	C
+3-27	T74	Katharine McPhee has been with more than four labels.	E
+3-28	T74	Katharine McPhee has been with more than five labels.	C
+3-29	T74	Katharine McPhee has been with more than six labels.	C
+4-0	T154	Charlie Sheen has divorced less than twice.	C
+4-1	T154	Charlie Sheen has divorced less than three times.	C
+4-2	T154	Charlie Sheen has divorced less than four times.	E
+4-9	T154	Charlie Sheen has divorced no more than twice.	C
+4-10	T154	Charlie Sheen has divorced no more than three times.	E
+4-11	T154	Charlie Sheen has divorced no more than four times.	E
+4-12	T154	Charlie Sheen has divorced exactly twice.	C
+4-13	T154	Charlie Sheen has divorced exactly three times.	E
+4-14	T154	Charlie Sheen has divorced exactly four times.	C
+4-15	T154	Charlie Sheen has divorced twice.	E
+4-16	T154	Charlie Sheen has divorced three times.	E
+4-17	T154	Charlie Sheen has divorced four times.	C
+4-18	T154	Charlie Sheen has divorced at least twice.	E
+4-19	T154	Charlie Sheen has divorced at least three times.	E
+4-20	T154	Charlie Sheen has divorced at least four times.	C
+4-24	T154	Charlie Sheen has divorced no less than twice.	E
+4-25	T154	Charlie Sheen has divorced no less than three times.	E
+4-26	T154	Charlie Sheen has divorced no less than four times.	C
+4-27	T154	Charlie Sheen has divorced more than twice.	E
+4-28	T154	Charlie Sheen has divorced more than three times.	C
+4-29	T154	Charlie Sheen has divorced more than four times.	C
+5-1	T277	Charo has been married less than twice.	C
+5-2	T277	Charo has been married less than three times.	E
+5-9	T277	Charo has been married no more than once.	C
+5-10	T277	Charo has been married no more than twice.	E
+5-11	T277	Charo has been married no more than three times.	E
+5-12	T277	Charo has been married exactly once.	C
+5-13	T277	Charo has been married exactly twice.	E
+5-14	T277	Charo has been married exactly three times.	C
+5-15	T277	Charo has been married once.	E
+5-16	T277	Charo has been married twice.	E
+5-17	T277	Charo has been married three times.	C
+5-18	T277	Charo has been married at least once.	E
+5-19	T277	Charo has been married at least twice.	E
+5-20	T277	Charo has been married at least three times.	C
+5-24	T277	Charo has been married no less than once.	E
+5-25	T277	Charo has been married no less than twice.	E
+5-26	T277	Charo has been married no less than three times.	C
+5-27	T277	Charo has been married more than once.	E
+5-28	T277	Charo has been married more than twice.	C
+5-29	T277	Charo has been married more than three times.	C
+6-0	T310	The town of Christchurch has less than 15 wards.	C
+6-1	T310	The town of Christchurch has less than 16 wards.	C
+6-2	T310	The town of Christchurch has less than 17 wards.	E
+6-9	T310	The town of Christchurch has no more than 15 wards.	C
+6-10	T310	The town of Christchurch has no more than 16 wards.	E
+6-11	T310	The town of Christchurch has no more than 17 wards.	E
+6-12	T310	The town of Christchurch has exactly 15 wards.	C
+6-13	T310	The town of Christchurch has exactly 16 wards.	E
+6-14	T310	The town of Christchurch has exactly 17 wards.	C
+6-15	T310	The town of Christchurch has 15 wards.	E
+6-16	T310	The town of Christchurch has 16 wards.	E
+6-17	T310	The town of Christchurch has 17 wards.	C
+6-18	T310	The town of Christchurch has at least 15 wards.	E
+6-19	T310	The town of Christchurch has at least 16 wards.	E
+6-20	T310	The town of Christchurch has at least 17 wards.	C
+6-24	T310	The town of Christchurch has no less than 15 wards.	E
+6-25	T310	The town of Christchurch has no less than 16 wards.	E
+6-26	T310	The town of Christchurch has no less than 17 wards.	C
+6-27	T310	The town of Christchurch has more than 15 wards.	E
+6-28	T310	The town of Christchurch has more than 16 wards.	C
+6-29	T310	The town of Christchurch has more than 17 wards.	C
+8-1	T416	Johnny Depp has been married less than twice.	C
+8-2	T416	Johnny Depp has been married less than three times.	E
+8-9	T416	Johnny Depp has been married no more than once.	C
+8-10	T416	Johnny Depp has been married no more than twice.	E
+8-11	T416	Johnny Depp has been married no more than three times.	E
+8-12	T416	Johnny Depp has been married exactly once.	C
+8-13	T416	Johnny Depp has been married exactly twice.	E
+8-14	T416	Johnny Depp has been married exactly three times.	C
+8-15	T416	Johnny Depp has been married once.	E
+8-16	T416	Johnny Depp has been married twice.	E
+8-17	T416	Johnny Depp has been married three times.	C
+8-18	T416	Johnny Depp has been married at least once.	E
+8-19	T416	Johnny Depp has been married at least twice.	E
+8-20	T416	Johnny Depp has been married at least three times.	C
+8-24	T416	Johnny Depp has been married no less than once.	E
+8-25	T416	Johnny Depp has been married no less than twice.	E
+8-26	T416	Johnny Depp has been married no less than three times.	C
+8-27	T416	Johnny Depp has been married more than once.	E
+8-28	T416	Johnny Depp has been married more than twice.	C
+8-29	T416	Johnny Depp has been married more than three times.	C
+9-0	T416	Johnny Depp has had less than two wives.	C
+9-1	T416	Johnny Depp has had less than three wives.	E
+9-8	T416	Johnny Depp has had no more than one wife.	C
+9-9	T416	Johnny Depp has had no more than two wives.	E
+9-10	T416	Johnny Depp has had no more than three wives.	E
+9-11	T416	Johnny Depp has had exactly one wife.	C
+9-12	T416	Johnny Depp has had exactly two wives.	E
+9-13	T416	Johnny Depp has had exactly three wives.	C
+9-14	T416	Johnny Depp has had one wife.	E
+9-15	T416	Johnny Depp has had two wives.	E
+9-16	T416	Johnny Depp has had three wives.	C
+9-17	T416	Johnny Depp has had at least one wife.	E
+9-18	T416	Johnny Depp has had at least two wives.	E
+9-19	T416	Johnny Depp has had at least three wives.	C
+9-23	T416	Johnny Depp has had no less than one wife.	E
+9-24	T416	Johnny Depp has had no less than two wives.	E
+9-25	T416	Johnny Depp has had no less than three wives.	C
+9-26	T416	Johnny Depp has had more than one wife.	E
+9-27	T416	Johnny Depp has had more than two wives.	C
+9-28	T416	Johnny Depp has had more than three wives.	C
+10-0	T435	The band formerly known as Inearthed has been on less than two labels.	C
+10-1	T435	The band formerly known as Inearthed has been on less than three labels.	C
+10-2	T435	The band formerly known as Inearthed has been on less than four labels.	E
+10-9	T435	The band formerly known as Inearthed has been on no more than two labels.	C
+10-10	T435	The band formerly known as Inearthed has been on no more than three labels.	E
+10-11	T435	The band formerly known as Inearthed has been on no more than four labels.	E
+10-12	T435	The band formerly known as Inearthed has been on exactly two labels.	C
+10-13	T435	The band formerly known as Inearthed has been on exactly three labels.	E
+10-14	T435	The band formerly known as Inearthed has been on exactly four labels.	C
+10-15	T435	The band formerly known as Inearthed has been on two labels.	E
+10-16	T435	The band formerly known as Inearthed has been on three labels.	E
+10-17	T435	The band formerly known as Inearthed has been on four labels.	C
+10-18	T435	The band formerly known as Inearthed has been on at least two labels.	E
+10-19	T435	The band formerly known as Inearthed has been on at least three labels.	E
+10-20	T435	The band formerly known as Inearthed has been on at least four labels.	C
+10-24	T435	The band formerly known as Inearthed has been on no less than two labels.	E
+10-25	T435	The band formerly known as Inearthed has been on no less than three labels.	E
+10-26	T435	The band formerly known as Inearthed has been on no less than four labels.	C
+10-27	T435	The band formerly known as Inearthed has been on more than two labels.	E
+10-28	T435	The band formerly known as Inearthed has been on more than three labels.	C
+10-29	T435	The band formerly known as Inearthed has been on more than four labels.	C
+11-0	T447	China has had less than two periods.	C
+11-1	T447	China has had less than three periods.	E
+11-8	T447	China has had no more than one period.	C
+11-9	T447	China has had no more than two periods.	E
+11-10	T447	China has had no more than three periods.	E
+11-11	T447	China has had exactly one period.	C
+11-12	T447	China has had exactly two periods.	E
+11-13	T447	China has had exactly three periods.	C
+11-14	T447	China has had one period.	E
+11-15	T447	China has had two periods.	E
+11-16	T447	China has had three periods.	C
+11-17	T447	China has had at least one period.	E
+11-18	T447	China has had at least two periods.	E
+11-19	T447	China has had at least three periods.	C
+11-23	T447	China has had no less than one period.	E
+11-24	T447	China has had no less than two periods.	E
+11-25	T447	China has had no less than three periods.	C
+11-26	T447	China has had more than one period.	E
+11-27	T447	China has had more than two periods.	C
+11-28	T447	China has had more than three periods.	C
+12-0	T534	CÎROC is sold in less than 12 flavors.	C
+12-1	T534	CÎROC is sold in less than 13 flavors.	C
+12-2	T534	CÎROC is sold in less than 14 flavors.	E
+12-9	T534	CÎROC is sold in no more than 12 flavors.	C
+12-10	T534	CÎROC is sold in no more than 13 flavors.	E
+12-11	T534	CÎROC is sold in no more than 14 flavors.	E
+12-12	T534	CÎROC is sold in exactly 12 flavors.	C
+12-13	T534	CÎROC is sold in exactly 13 flavors.	E
+12-14	T534	CÎROC is sold in exactly 14 flavors.	C
+12-15	T534	CÎROC is sold in 12 flavors.	E
+12-16	T534	CÎROC is sold in 13 flavors.	E
+12-17	T534	CÎROC is sold in 14 flavors.	C
+12-18	T534	CÎROC is sold in at least 12 flavors.	E
+12-19	T534	CÎROC is sold in at least 13 flavors.	E
+12-20	T534	CÎROC is sold in at least 14 flavors.	C
+12-24	T534	CÎROC is sold in no less than 12 flavors.	E
+12-25	T534	CÎROC is sold in no less than 13 flavors.	E
+12-26	T534	CÎROC is sold in no less than 14 flavors.	C
+12-27	T534	CÎROC is sold in more than 12 flavors.	E
+12-28	T534	CÎROC is sold in more than 13 flavors.	C
+12-29	T534	CÎROC is sold in more than 14 flavors.	C
+13-0	T680	CKY has worked with less than seven labels.	C
+13-1	T680	CKY has worked with less than eight labels.	C
+13-2	T680	CKY has worked with less than nine labels.	E
+13-9	T680	CKY has worked with no more than seven labels.	C
+13-10	T680	CKY has worked with no more than eight labels.	E
+13-11	T680	CKY has worked with no more than nine labels.	E
+13-12	T680	CKY has worked with exactly seven labels.	C
+13-13	T680	CKY has worked with exactly eight labels.	E
+13-14	T680	CKY has worked with exactly nine labels.	C
+13-15	T680	CKY has worked with seven labels.	E
+13-16	T680	CKY has worked with eight labels.	E
+13-17	T680	CKY has worked with nine labels.	C
+13-18	T680	CKY has worked with at least seven labels.	E
+13-19	T680	CKY has worked with at least eight labels.	E
+13-20	T680	CKY has worked with at least nine labels.	C
+13-24	T680	CKY has worked with no less than seven labels.	E
+13-25	T680	CKY has worked with no less than eight labels.	E
+13-26	T680	CKY has worked with no less than nine labels.	C
+13-27	T680	CKY has worked with more than seven labels.	E
+13-28	T680	CKY has worked with more than eight labels.	C
+13-29	T680	CKY has worked with more than nine labels.	C
+14-0	T702	The City of London has less than 24 wards.	C
+14-1	T702	The City of London has less than 25 wards.	C
+14-2	T702	The City of London has less than 26 wards.	E
+14-9	T702	The City of London has no more than 24 wards.	C
+14-10	T702	The City of London has no more than 25 wards.	E
+14-11	T702	The City of London has no more than 26 wards.	E
+14-12	T702	The City of London has exactly 24 wards.	C
+14-13	T702	The City of London has exactly 25 wards.	E
+14-14	T702	The City of London has exactly 26 wards.	C
+14-15	T702	The City of London has 24 wards.	E
+14-16	T702	The City of London has 25 wards.	E
+14-17	T702	The City of London has 26 wards.	C
+14-18	T702	The City of London has at least 24 wards.	E
+14-19	T702	The City of London has at least 25 wards.	E
+14-20	T702	The City of London has at least 26 wards.	C
+14-24	T702	The City of London has no less than 24 wards.	E
+14-25	T702	The City of London has no less than 25 wards.	E
+14-26	T702	The City of London has no less than 26 wards.	C
+14-27	T702	The City of London has more than 24 wards.	E
+14-28	T702	The City of London has more than 25 wards.	C
+14-29	T702	The City of London has more than 26 wards.	C
+15-0	T734	David Cook has less than two family members.	C
+15-1	T734	David Cook has less than three family members.	E
+15-8	T734	David Cook has no more than one family member.	C
+15-9	T734	David Cook has no more than two family members.	E
+15-10	T734	David Cook has no more than three family members.	E
+15-11	T734	David Cook has exactly one family member.	C
+15-12	T734	David Cook has exactly two family members.	E
+15-13	T734	David Cook has exactly three family members.	C
+15-14	T734	David Cook has one family member.	E
+15-15	T734	David Cook has two family members.	E
+15-16	T734	David Cook has three family members.	C
+15-17	T734	David Cook has at least one family member.	E
+15-18	T734	David Cook has at least two family members.	E
+15-19	T734	David Cook has at least three family members.	C
+15-23	T734	David Cook has no less than one family member.	E
+15-24	T734	David Cook has no less than two family members.	E
+15-25	T734	David Cook has no less than three family members.	C
+15-26	T734	David Cook has more than one family member.	E
+15-27	T734	David Cook has more than two family members.	C
+15-28	T734	David Cook has more than three family members.	C
+16-0	T734	David Cook has less than two children.	E
+16-5	T734	David Cook has no more than one child.	E
+16-6	T734	David Cook has no more than two children.	E
+16-7	T734	David Cook has exactly one child.	E
+16-8	T734	David Cook has exactly two children.	C
+16-9	T734	David Cook has one child.	E
+16-10	T734	David Cook has two children.	C
+16-11	T734	David Cook has at least one child.	E
+16-12	T734	David Cook has at least two children.	C
+16-15	T734	David Cook has no less than one child.	E
+16-16	T734	David Cook has no less than two children.	C
+16-17	T734	David Cook has more than one child.	C
+16-18	T734	David Cook has more than two children.	C
+17-0	T787	The Republic of Cuba has less than two languages.	E
+17-5	T787	The Republic of Cuba has no more than one language.	E
+17-6	T787	The Republic of Cuba has no more than two languages.	E
+17-7	T787	The Republic of Cuba has exactly one language.	E
+17-8	T787	The Republic of Cuba has exactly two languages.	C
+17-9	T787	The Republic of Cuba has one language.	E
+17-10	T787	The Republic of Cuba has two languages.	C
+17-11	T787	The Republic of Cuba has at least one language.	E
+17-12	T787	The Republic of Cuba has at least two languages.	C
+17-15	T787	The Republic of Cuba has no less than one language.	E
+17-16	T787	The Republic of Cuba has no less than two languages.	C
+17-17	T787	The Republic of Cuba has more than one language.	C
+17-18	T787	The Republic of Cuba has more than two languages.	C
+18-0	T845	Dean Kamen has won less than six awards.	C
+18-1	T845	Dean Kamen has won less than seven awards.	C
+18-2	T845	Dean Kamen has won less than eight awards.	E
+18-9	T845	Dean Kamen has won no more than six awards.	C
+18-10	T845	Dean Kamen has won no more than seven awards.	E
+18-11	T845	Dean Kamen has won no more than eight awards.	E
+18-12	T845	Dean Kamen has won exactly six awards.	C
+18-13	T845	Dean Kamen has won exactly seven awards.	E
+18-14	T845	Dean Kamen has won exactly eight awards.	C
+18-15	T845	Dean Kamen has won six awards.	E
+18-16	T845	Dean Kamen has won seven awards.	E
+18-17	T845	Dean Kamen has won eight awards.	C
+18-18	T845	Dean Kamen has won at least six awards.	E
+18-19	T845	Dean Kamen has won at least seven awards.	E
+18-20	T845	Dean Kamen has won at least eight awards.	C
+18-24	T845	Dean Kamen has won no less than six awards.	E
+18-25	T845	Dean Kamen has won no less than seven awards.	E
+18-26	T845	Dean Kamen has won no less than eight awards.	C
+18-27	T845	Dean Kamen has won more than six awards.	E
+18-28	T845	Dean Kamen has won more than seven awards.	C
+18-29	T845	Dean Kamen has won more than eight awards.	C
+19-0	T910	Catania has less than two websites.	E
+19-5	T910	Catania has no more than one website.	E
+19-6	T910	Catania has no more than two websites.	E
+19-7	T910	Catania has exactly one website.	E
+19-8	T910	Catania has exactly two websites.	C
+19-9	T910	Catania has one website.	E
+19-10	T910	Catania has two websites.	C
+19-11	T910	Catania has at least one website.	E
+19-12	T910	Catania has at least two websites.	C
+19-15	T910	Catania has no less than one website.	E
+19-16	T910	Catania has no less than two websites.	C
+19-17	T910	Catania has more than one website.	C
+19-18	T910	Catania has more than two websites.	C
+20-0	T928	Charlie and the Chocolate Factory was released in less than two countries.	C
+20-1	T928	Charlie and the Chocolate Factory was released in less than three countries.	C
+20-2	T928	Charlie and the Chocolate Factory was released in less than four countries.	E
+20-9	T928	Charlie and the Chocolate Factory was released in no more than two countries.	C
+20-10	T928	Charlie and the Chocolate Factory was released in no more than three countries.	E
+20-11	T928	Charlie and the Chocolate Factory was released in no more than four countries.	E
+20-12	T928	Charlie and the Chocolate Factory was released in exactly two countries.	C
+20-13	T928	Charlie and the Chocolate Factory was released in exactly three countries.	E
+20-14	T928	Charlie and the Chocolate Factory was released in exactly four countries.	C
+20-15	T928	Charlie and the Chocolate Factory was released in two countries.	E
+20-16	T928	Charlie and the Chocolate Factory was released in three countries.	E
+20-17	T928	Charlie and the Chocolate Factory was released in four countries.	C
+20-18	T928	Charlie and the Chocolate Factory was released in at least two countries.	E
+20-19	T928	Charlie and the Chocolate Factory was released in at least three countries.	E
+20-20	T928	Charlie and the Chocolate Factory was released in at least four countries.	C
+20-24	T928	Charlie and the Chocolate Factory was released in no less than two countries.	E
+20-25	T928	Charlie and the Chocolate Factory was released in no less than three countries.	E
+20-26	T928	Charlie and the Chocolate Factory was released in no less than four countries.	C
+20-27	T928	Charlie and the Chocolate Factory was released in more than two countries.	E
+20-28	T928	Charlie and the Chocolate Factory was released in more than three countries.	C
+20-29	T928	Charlie and the Chocolate Factory was released in more than four countries.	C
+21-1	T983	Camilla Rosemary Shand has been married less than twice.	C
+21-2	T983	Camilla Rosemary Shand has been married less than three times.	E
+21-9	T983	Camilla Rosemary Shand has been married no more than once.	C
+21-10	T983	Camilla Rosemary Shand has been married no more than twice.	E
+21-11	T983	Camilla Rosemary Shand has been married no more than three times.	E
+21-12	T983	Camilla Rosemary Shand has been married exactly once.	C
+21-13	T983	Camilla Rosemary Shand has been married exactly twice.	E
+21-14	T983	Camilla Rosemary Shand has been married exactly three times.	C
+21-15	T983	Camilla Rosemary Shand has been married once.	E
+21-16	T983	Camilla Rosemary Shand has been married twice.	E
+21-17	T983	Camilla Rosemary Shand has been married three times.	C
+21-18	T983	Camilla Rosemary Shand has been married at least once.	E
+21-19	T983	Camilla Rosemary Shand has been married at least twice.	E
+21-20	T983	Camilla Rosemary Shand has been married at least three times.	C
+21-24	T983	Camilla Rosemary Shand has been married no less than once.	E
+21-25	T983	Camilla Rosemary Shand has been married no less than twice.	E
+21-26	T983	Camilla Rosemary Shand has been married no less than three times.	C
+21-27	T983	Camilla Rosemary Shand has been married more than once.	E
+21-28	T983	Camilla Rosemary Shand has been married more than twice.	C
+21-29	T983	Camilla Rosemary Shand has been married more than three times.	C
+22-0	T1212	Glacier National Park is in less than two counties.	C
+22-1	T1212	Glacier National Park is in less than three counties.	E
+22-8	T1212	Glacier National Park is in no more than one county.	C
+22-9	T1212	Glacier National Park is in no more than two counties.	E
+22-10	T1212	Glacier National Park is in no more than three counties.	E
+22-11	T1212	Glacier National Park is in exactly one county.	C
+22-12	T1212	Glacier National Park is in exactly two counties.	E
+22-13	T1212	Glacier National Park is in exactly three counties.	C
+22-14	T1212	Glacier National Park is in one county.	E
+22-15	T1212	Glacier National Park is in two counties.	E
+22-16	T1212	Glacier National Park is in three counties.	C
+22-17	T1212	Glacier National Park is in at least one county.	E
+22-18	T1212	Glacier National Park is in at least two counties.	E
+22-19	T1212	Glacier National Park is in at least three counties.	C
+22-23	T1212	Glacier National Park is in no less than one county.	E
+22-24	T1212	Glacier National Park is in no less than two counties.	E
+22-25	T1212	Glacier National Park is in no less than three counties.	C
+22-26	T1212	Glacier National Park is in more than one county.	E
+22-27	T1212	Glacier National Park is in more than two counties.	C
+22-28	T1212	Glacier National Park is in more than three counties.	C
+23-0	T1406	Kazakh Khanate has had less than five capitals.	C
+23-1	T1406	Kazakh Khanate has had less than six capitals.	C
+23-2	T1406	Kazakh Khanate has had less than seven capitals.	E
+23-9	T1406	Kazakh Khanate has had no more than five capitals.	C
+23-10	T1406	Kazakh Khanate has had no more than six capitals.	E
+23-11	T1406	Kazakh Khanate has had no more than seven capitals.	E
+23-12	T1406	Kazakh Khanate has had exactly five capitals.	C
+23-13	T1406	Kazakh Khanate has had exactly six capitals.	E
+23-14	T1406	Kazakh Khanate has had exactly seven capitals.	C
+23-15	T1406	Kazakh Khanate has had five capitals.	E
+23-16	T1406	Kazakh Khanate has had six capitals.	E
+23-17	T1406	Kazakh Khanate has had seven capitals.	C
+23-18	T1406	Kazakh Khanate has had at least five capitals.	E
+23-19	T1406	Kazakh Khanate has had at least six capitals.	E
+23-20	T1406	Kazakh Khanate has had at least seven capitals.	C
+23-24	T1406	Kazakh Khanate has had no less than five capitals.	E
+23-25	T1406	Kazakh Khanate has had no less than six capitals.	E
+23-26	T1406	Kazakh Khanate has had no less than seven capitals.	C
+23-27	T1406	Kazakh Khanate has had more than five capitals.	E
+23-28	T1406	Kazakh Khanate has had more than six capitals.	C
+23-29	T1406	Kazakh Khanate has had more than seven capitals.	C
+24-0	T1443	Karachi has less than five districts.	C
+24-1	T1443	Karachi has less than six districts.	C
+24-2	T1443	Karachi has less than seven districts.	E
+24-9	T1443	Karachi has no more than five districts.	C
+24-10	T1443	Karachi has no more than six districts.	E
+24-11	T1443	Karachi has no more than seven districts.	E
+24-12	T1443	Karachi has exactly five districts.	C
+24-13	T1443	Karachi has exactly six districts.	E
+24-14	T1443	Karachi has exactly seven districts.	C
+24-15	T1443	Karachi has five districts.	E
+24-16	T1443	Karachi has six districts.	E
+24-17	T1443	Karachi has seven districts.	C
+24-18	T1443	Karachi has at least five districts.	E
+24-19	T1443	Karachi has at least six districts.	E
+24-20	T1443	Karachi has at least seven districts.	C
+24-24	T1443	Karachi has no less than five districts.	E
+24-25	T1443	Karachi has no less than six districts.	E
+24-26	T1443	Karachi has no less than seven districts.	C
+24-27	T1443	Karachi has more than five districts.	E
+24-28	T1443	Karachi has more than six districts.	C
+24-29	T1443	Karachi has more than seven districts.	C
+25-1	T1457	Jimmy Fallon has been married less than twice.	E
+25-6	T1457	Jimmy Fallon has been married no more than once.	E
+25-7	T1457	Jimmy Fallon has been married no more than twice.	E
+25-8	T1457	Jimmy Fallon has been married exactly once.	E
+25-9	T1457	Jimmy Fallon has been married exactly twice.	C
+25-10	T1457	Jimmy Fallon has been married once.	E
+25-11	T1457	Jimmy Fallon has been married twice.	C
+25-12	T1457	Jimmy Fallon has been married at least once.	E
+25-13	T1457	Jimmy Fallon has been married at least twice.	C
+25-16	T1457	Jimmy Fallon has been married no less than once.	E
+25-17	T1457	Jimmy Fallon has been married no less than twice.	C
+25-18	T1457	Jimmy Fallon has been married more than once.	C
+25-19	T1457	Jimmy Fallon has been married more than twice.	C
+26-0	T1502	Karl Ferdinand Braun attended less than two universities.	C
+26-1	T1502	Karl Ferdinand Braun attended less than three universities.	E
+26-8	T1502	Karl Ferdinand Braun attended no more than one university.	C
+26-9	T1502	Karl Ferdinand Braun attended no more than two universities.	E
+26-10	T1502	Karl Ferdinand Braun attended no more than three universities.	E
+26-11	T1502	Karl Ferdinand Braun attended exactly one university.	C
+26-12	T1502	Karl Ferdinand Braun attended exactly two universities.	E
+26-13	T1502	Karl Ferdinand Braun attended exactly three universities.	C
+26-14	T1502	Karl Ferdinand Braun attended one university.	E
+26-15	T1502	Karl Ferdinand Braun attended two universities.	E
+26-16	T1502	Karl Ferdinand Braun attended three universities.	C
+26-17	T1502	Karl Ferdinand Braun attended at least one university.	E
+26-18	T1502	Karl Ferdinand Braun attended at least two universities.	E
+26-19	T1502	Karl Ferdinand Braun attended at least three universities.	C
+26-23	T1502	Karl Ferdinand Braun attended no less than one university.	E
+26-24	T1502	Karl Ferdinand Braun attended no less than two universities.	E
+26-25	T1502	Karl Ferdinand Braun attended no less than three universities.	C
+26-26	T1502	Karl Ferdinand Braun attended more than one university.	E
+26-27	T1502	Karl Ferdinand Braun attended more than two universities.	C
+26-28	T1502	Karl Ferdinand Braun attended more than three universities.	C
+27-0	T1502	Karl Ferdinand Braun won less than two awards.	E
+27-5	T1502	Karl Ferdinand Braun won no more than one award.	E
+27-6	T1502	Karl Ferdinand Braun won no more than two awards.	E
+27-7	T1502	Karl Ferdinand Braun won exactly one award.	E
+27-8	T1502	Karl Ferdinand Braun won exactly two awards.	C
+27-9	T1502	Karl Ferdinand Braun won one award.	E
+27-10	T1502	Karl Ferdinand Braun won two awards.	C
+27-11	T1502	Karl Ferdinand Braun won at least one award.	E
+27-12	T1502	Karl Ferdinand Braun won at least two awards.	C
+27-15	T1502	Karl Ferdinand Braun won no less than one award.	E
+27-16	T1502	Karl Ferdinand Braun won no less than two awards.	C
+27-17	T1502	Karl Ferdinand Braun won more than one award.	C
+27-18	T1502	Karl Ferdinand Braun won more than two awards.	C
+28-0	T1503	Jim Belushi has had less than two wives.	C
+28-1	T1503	Jim Belushi has had less than three wives.	C
+28-2	T1503	Jim Belushi has had less than four wives.	E
+28-9	T1503	Jim Belushi has had no more than two wives.	C
+28-10	T1503	Jim Belushi has had no more than three wives.	E
+28-11	T1503	Jim Belushi has had no more than four wives.	E
+28-12	T1503	Jim Belushi has had exactly two wives.	C
+28-13	T1503	Jim Belushi has had exactly three wives.	E
+28-14	T1503	Jim Belushi has had exactly four wives.	C
+28-15	T1503	Jim Belushi has had two wives.	E
+28-16	T1503	Jim Belushi has had three wives.	E
+28-17	T1503	Jim Belushi has had four wives.	C
+28-18	T1503	Jim Belushi has had at least two wives.	E
+28-19	T1503	Jim Belushi has had at least three wives.	E
+28-20	T1503	Jim Belushi has had at least four wives.	C
+28-24	T1503	Jim Belushi has had no less than two wives.	E
+28-25	T1503	Jim Belushi has had no less than three wives.	E
+28-26	T1503	Jim Belushi has had no less than four wives.	C
+28-27	T1503	Jim Belushi has had more than two wives.	E
+28-28	T1503	Jim Belushi has had more than three wives.	C
+28-29	T1503	Jim Belushi has had more than four wives.	C
+29-0	T1544	Johnny Cash had less than two wives.	C
+29-1	T1544	Johnny Cash had less than three wives.	E
+29-8	T1544	Johnny Cash had no more than one wife.	C
+29-9	T1544	Johnny Cash had no more than two wives.	E
+29-10	T1544	Johnny Cash had no more than three wives.	E
+29-11	T1544	Johnny Cash had exactly one wife.	C
+29-12	T1544	Johnny Cash had exactly two wives.	E
+29-13	T1544	Johnny Cash had exactly three wives.	C
+29-14	T1544	Johnny Cash had one wife.	E
+29-15	T1544	Johnny Cash had two wives.	E
+29-16	T1544	Johnny Cash had three wives.	C
+29-17	T1544	Johnny Cash had at least one wife.	E
+29-18	T1544	Johnny Cash had at least two wives.	E
+29-19	T1544	Johnny Cash had at least three wives.	C
+29-23	T1544	Johnny Cash had no less than one wife.	E
+29-24	T1544	Johnny Cash had no less than two wives.	E
+29-25	T1544	Johnny Cash had no less than three wives.	C
+29-26	T1544	Johnny Cash had more than one wife.	E
+29-27	T1544	Johnny Cash had more than two wives.	C
+29-28	T1544	Johnny Cash had more than three wives.	C
+30-0	T1550	Jørgen Skafte Rasmussen had less than three children.	C
+30-1	T1550	Jørgen Skafte Rasmussen had less than four children.	C
+30-2	T1550	Jørgen Skafte Rasmussen had less than five children.	E
+30-9	T1550	Jørgen Skafte Rasmussen had no more than three children.	C
+30-10	T1550	Jørgen Skafte Rasmussen had no more than four children.	E
+30-11	T1550	Jørgen Skafte Rasmussen had no more than five children.	E
+30-12	T1550	Jørgen Skafte Rasmussen had exactly three children.	C
+30-13	T1550	Jørgen Skafte Rasmussen had exactly four children.	E
+30-14	T1550	Jørgen Skafte Rasmussen had exactly five children.	C
+30-15	T1550	Jørgen Skafte Rasmussen had three children.	E
+30-16	T1550	Jørgen Skafte Rasmussen had four children.	E
+30-17	T1550	Jørgen Skafte Rasmussen had five children.	C
+30-18	T1550	Jørgen Skafte Rasmussen had at least three children.	E
+30-19	T1550	Jørgen Skafte Rasmussen had at least four children.	E
+30-20	T1550	Jørgen Skafte Rasmussen had at least five children.	C
+30-24	T1550	Jørgen Skafte Rasmussen had no less than three children.	E
+30-25	T1550	Jørgen Skafte Rasmussen had no less than four children.	E
+30-26	T1550	Jørgen Skafte Rasmussen had no less than five children.	C
+30-27	T1550	Jørgen Skafte Rasmussen had more than three children.	E
+30-28	T1550	Jørgen Skafte Rasmussen had more than four children.	C
+30-29	T1550	Jørgen Skafte Rasmussen had more than five children.	C
+31-0	T1601	Jimmy Eat World has been on less than 11 labels.	C
+31-1	T1601	Jimmy Eat World has been on less than 12 labels.	C
+31-2	T1601	Jimmy Eat World has been on less than 13 labels.	E
+31-9	T1601	Jimmy Eat World has been on no more than 11 labels.	C
+31-10	T1601	Jimmy Eat World has been on no more than 12 labels.	E
+31-11	T1601	Jimmy Eat World has been on no more than 13 labels.	E
+31-12	T1601	Jimmy Eat World has been on exactly 11 labels.	C
+31-13	T1601	Jimmy Eat World has been on exactly 12 labels.	E
+31-14	T1601	Jimmy Eat World has been on exactly 13 labels.	C
+31-15	T1601	Jimmy Eat World has been on 11 labels.	E
+31-16	T1601	Jimmy Eat World has been on 12 labels.	E
+31-17	T1601	Jimmy Eat World has been on 13 labels.	C
+31-18	T1601	Jimmy Eat World has been on at least 11 labels.	E
+31-19	T1601	Jimmy Eat World has been on at least 12 labels.	E
+31-20	T1601	Jimmy Eat World has been on at least 13 labels.	C
+31-24	T1601	Jimmy Eat World has been on no less than 11 labels.	E
+31-25	T1601	Jimmy Eat World has been on no less than 12 labels.	E
+31-26	T1601	Jimmy Eat World has been on no less than 13 labels.	C
+31-27	T1601	Jimmy Eat World has been on more than 11 labels.	E
+31-28	T1601	Jimmy Eat World has been on more than 12 labels.	C
+31-29	T1601	Jimmy Eat World has been on more than 13 labels.	C
+32-0	T1659	Jungle had music written by less than two people.	E
+32-5	T1659	Jungle had music written by no more than one person.	E
+32-6	T1659	Jungle had music written by no more than two people.	E
+32-7	T1659	Jungle had music written by exactly one person.	E
+32-8	T1659	Jungle had music written by exactly two people.	C
+32-9	T1659	Jungle had music written by one person.	E
+32-10	T1659	Jungle had music written by two people.	C
+32-11	T1659	Jungle had music written by at least one person.	E
+32-12	T1659	Jungle had music written by at least two people.	C
+32-15	T1659	Jungle had music written by no less than one person.	E
+32-16	T1659	Jungle had music written by no less than two people.	C
+32-17	T1659	Jungle had music written by more than one person.	C
+32-18	T1659	Jungle had music written by more than two people.	C
+33-1	T1688	John Cyril Porte served less than twice.	C
+33-2	T1688	John Cyril Porte served less than three times.	E
+33-9	T1688	John Cyril Porte served no more than once.	C
+33-10	T1688	John Cyril Porte served no more than twice.	E
+33-11	T1688	John Cyril Porte served no more than three times.	E
+33-12	T1688	John Cyril Porte served exactly once.	C
+33-13	T1688	John Cyril Porte served exactly twice.	E
+33-14	T1688	John Cyril Porte served exactly three times.	C
+33-15	T1688	John Cyril Porte served once.	E
+33-16	T1688	John Cyril Porte served twice.	E
+33-17	T1688	John Cyril Porte served three times.	C
+33-18	T1688	John Cyril Porte served at least once.	E
+33-19	T1688	John Cyril Porte served at least twice.	E
+33-20	T1688	John Cyril Porte served at least three times.	C
+33-24	T1688	John Cyril Porte served no less than once.	E
+33-25	T1688	John Cyril Porte served no less than twice.	E
+33-26	T1688	John Cyril Porte served no less than three times.	C
+33-27	T1688	John Cyril Porte served more than once.	E
+33-28	T1688	John Cyril Porte served more than twice.	C
+33-29	T1688	John Cyril Porte served more than three times.	C
+34-0	T1706	Jeff Lynne has had less than two names.	C
+34-1	T1706	Jeff Lynne has had less than three names.	E
+34-8	T1706	Jeff Lynne has had no more than one name.	C
+34-9	T1706	Jeff Lynne has had no more than two names.	E
+34-10	T1706	Jeff Lynne has had no more than three names.	E
+34-11	T1706	Jeff Lynne has had exactly one name.	C
+34-12	T1706	Jeff Lynne has had exactly two names.	E
+34-13	T1706	Jeff Lynne has had exactly three names.	C
+34-14	T1706	Jeff Lynne has had one name.	E
+34-15	T1706	Jeff Lynne has had two names.	E
+34-16	T1706	Jeff Lynne has had three names.	C
+34-17	T1706	Jeff Lynne has had at least one name.	E
+34-18	T1706	Jeff Lynne has had at least two names.	E
+34-19	T1706	Jeff Lynne has had at least three names.	C
+34-23	T1706	Jeff Lynne has had no less than one name.	E
+34-24	T1706	Jeff Lynne has had no less than two names.	E
+34-25	T1706	Jeff Lynne has had no less than three names.	C
+34-26	T1706	Jeff Lynne has had more than one name.	E
+34-27	T1706	Jeff Lynne has had more than two names.	C
+34-28	T1706	Jeff Lynne has had more than three names.	C
+35-0	T1768	Iced Earth also had less than two names.	C
+35-1	T1768	Iced Earth also had less than three names.	E
+35-8	T1768	Iced Earth also had no more than one name.	C
+35-9	T1768	Iced Earth also had no more than two names.	E
+35-10	T1768	Iced Earth also had no more than three names.	E
+35-11	T1768	Iced Earth also had exactly one name.	C
+35-12	T1768	Iced Earth also had exactly two names.	E
+35-13	T1768	Iced Earth also had exactly three names.	C
+35-14	T1768	Iced Earth also had one name.	E
+35-15	T1768	Iced Earth also had two names.	E
+35-16	T1768	Iced Earth also had three names.	C
+35-17	T1768	Iced Earth also had at least one name.	E
+35-18	T1768	Iced Earth also had at least two names.	E
+35-19	T1768	Iced Earth also had at least three names.	C
+35-23	T1768	Iced Earth also had no less than one name.	E
+35-24	T1768	Iced Earth also had no less than two names.	E
+35-25	T1768	Iced Earth also had no less than three names.	C
+35-26	T1768	Iced Earth also had more than one name.	E
+35-27	T1768	Iced Earth also had more than two names.	C
+35-28	T1768	Iced Earth also had more than three names.	C
+36-0	T1888	Huntinyon Beach council has less than six members.	C
+36-1	T1888	Huntinyon Beach council has less than seven members.	C
+36-2	T1888	Huntinyon Beach council has less than eight members.	E
+36-9	T1888	Huntinyon Beach council has no more than six members.	C
+36-10	T1888	Huntinyon Beach council has no more than seven members.	E
+36-11	T1888	Huntinyon Beach council has no more than eight members.	E
+36-12	T1888	Huntinyon Beach council has exactly six members.	C
+36-13	T1888	Huntinyon Beach council has exactly seven members.	E
+36-14	T1888	Huntinyon Beach council has exactly eight members.	C
+36-15	T1888	Huntinyon Beach council has six members.	E
+36-16	T1888	Huntinyon Beach council has seven members.	E
+36-17	T1888	Huntinyon Beach council has eight members.	C
+36-18	T1888	Huntinyon Beach council has at least six members.	E
+36-19	T1888	Huntinyon Beach council has at least seven members.	E
+36-20	T1888	Huntinyon Beach council has at least eight members.	C
+36-24	T1888	Huntinyon Beach council has no less than six members.	E
+36-25	T1888	Huntinyon Beach council has no less than seven members.	E
+36-26	T1888	Huntinyon Beach council has no less than eight members.	C
+36-27	T1888	Huntinyon Beach council has more than six members.	E
+36-28	T1888	Huntinyon Beach council has more than seven members.	C
+36-29	T1888	Huntinyon Beach council has more than eight members.	C
+37-0	T1917	People speak less than two languages in Republic of Iraq.	C
+37-1	T1917	People speak less than three languages in Republic of Iraq.	E
+37-8	T1917	People speak no more than one language in Republic of Iraq.	C
+37-9	T1917	People speak no more than two languages in Republic of Iraq.	E
+37-10	T1917	People speak no more than three languages in Republic of Iraq.	E
+37-11	T1917	People speak exactly one language in Republic of Iraq.	C
+37-12	T1917	People speak exactly two languages in Republic of Iraq.	E
+37-13	T1917	People speak exactly three languages in Republic of Iraq.	C
+37-14	T1917	People speak one language in Republic of Iraq.	E
+37-15	T1917	People speak two languages in Republic of Iraq.	E
+37-16	T1917	People speak three languages in Republic of Iraq.	C
+37-17	T1917	People speak at least one language in Republic of Iraq.	E
+37-18	T1917	People speak at least two languages in Republic of Iraq.	E
+37-19	T1917	People speak at least three languages in Republic of Iraq.	C
+37-23	T1917	People speak no less than one language in Republic of Iraq.	E
+37-24	T1917	People speak no less than two languages in Republic of Iraq.	E
+37-25	T1917	People speak no less than three languages in Republic of Iraq.	C
+37-26	T1917	People speak more than one language in Republic of Iraq.	E
+37-27	T1917	People speak more than two languages in Republic of Iraq.	C
+37-28	T1917	People speak more than three languages in Republic of Iraq.	C
+38-0	T46	Janet Leigh was married less than three times.	C
+38-1	T46	Janet Leigh was married less than four times.	C
+38-2	T46	Janet Leigh was married less than five times.	E
+38-9	T46	Janet Leigh was married no more than three times.	C
+38-10	T46	Janet Leigh was married no more than four times.	E
+38-11	T46	Janet Leigh was married no more than five times.	E
+38-12	T46	Janet Leigh was married exactly three times.	C
+38-13	T46	Janet Leigh was married exactly four times.	E
+38-14	T46	Janet Leigh was married exactly five times.	C
+38-15	T46	Janet Leigh was married three times.	E
+38-16	T46	Janet Leigh was married four times.	E
+38-17	T46	Janet Leigh was married five times.	C
+38-18	T46	Janet Leigh was married at least three times.	E
+38-19	T46	Janet Leigh was married at least four times.	E
+38-20	T46	Janet Leigh was married at least five times.	C
+38-24	T46	Janet Leigh was married no less than three times.	E
+38-25	T46	Janet Leigh was married no less than four times.	E
+38-26	T46	Janet Leigh was married no less than five times.	C
+38-27	T46	Janet Leigh was married more than three times.	E
+38-28	T46	Janet Leigh was married more than four times.	C
+38-29	T46	Janet Leigh was married more than five times.	C
+39-0	T47	Jodie Whittaker has had less than two husbands.	E
+39-5	T47	Jodie Whittaker has had no more than one husband.	E
+39-6	T47	Jodie Whittaker has had no more than two husbands.	E
+39-7	T47	Jodie Whittaker has had exactly one husband.	E
+39-8	T47	Jodie Whittaker has had exactly two husbands.	C
+39-9	T47	Jodie Whittaker has had one husband.	E
+39-10	T47	Jodie Whittaker has had two husbands.	C
+39-11	T47	Jodie Whittaker has had at least one husband.	E
+39-12	T47	Jodie Whittaker has had at least two husbands.	C
+39-15	T47	Jodie Whittaker has had no less than one husband.	E
+39-16	T47	Jodie Whittaker has had no less than two husbands.	C
+39-17	T47	Jodie Whittaker has had more than one husband.	C
+39-18	T47	Jodie Whittaker has had more than two husbands.	C
+40-0	T144	Jennifer Connelly has less than two degrees.	N
+40-5	T144	Jennifer Connelly has no more than one degree.	N
+40-6	T144	Jennifer Connelly has no more than two degrees.	N
+40-7	T144	Jennifer Connelly has exactly one degree.	N
+40-8	T144	Jennifer Connelly has exactly two degrees.	N
+40-9	T144	Jennifer Connelly has one degree.	N
+40-10	T144	Jennifer Connelly has two degrees.	N
+40-11	T144	Jennifer Connelly has at least one degree.	N
+40-12	T144	Jennifer Connelly has at least two degrees.	N
+40-15	T144	Jennifer Connelly has no less than one degree.	N
+40-16	T144	Jennifer Connelly has no less than two degrees.	N
+40-17	T144	Jennifer Connelly has more than one degree.	N
+40-18	T144	Jennifer Connelly has more than two degrees.	N
+41-0	T144	Jennifer Connelly has had less than two husbands.	E
+41-5	T144	Jennifer Connelly has had no more than one husband.	E
+41-6	T144	Jennifer Connelly has had no more than two husbands.	E
+41-7	T144	Jennifer Connelly has had exactly one husband.	E
+41-8	T144	Jennifer Connelly has had exactly two husbands.	C
+41-9	T144	Jennifer Connelly has had one husband.	E
+41-10	T144	Jennifer Connelly has had two husbands.	C
+41-11	T144	Jennifer Connelly has had at least one husband.	E
+41-12	T144	Jennifer Connelly has had at least two husbands.	C
+41-15	T144	Jennifer Connelly has had no less than one husband.	E
+41-16	T144	Jennifer Connelly has had no less than two husbands.	C
+41-17	T144	Jennifer Connelly has had more than one husband.	C
+41-18	T144	Jennifer Connelly has had more than two husbands.	C
+42-0	T149	Johnny Cash was on less than five labels.	N
+42-1	T149	Johnny Cash was on less than six labels.	N
+42-2	T149	Johnny Cash was on less than seven labels.	N
+42-9	T149	Johnny Cash was on no more than five labels.	N
+42-10	T149	Johnny Cash was on no more than six labels.	N
+42-11	T149	Johnny Cash was on no more than seven labels.	N
+42-12	T149	Johnny Cash was on exactly five labels.	N
+42-13	T149	Johnny Cash was on exactly six labels.	N
+42-14	T149	Johnny Cash was on exactly seven labels.	N
+42-15	T149	Johnny Cash was on five labels.	N
+42-16	T149	Johnny Cash was on six labels.	N
+42-17	T149	Johnny Cash was on seven labels.	N
+42-18	T149	Johnny Cash was on at least five labels.	N
+42-19	T149	Johnny Cash was on at least six labels.	N
+42-20	T149	Johnny Cash was on at least seven labels.	N
+42-24	T149	Johnny Cash was on no less than five labels.	N
+42-25	T149	Johnny Cash was on no less than six labels.	N
+42-26	T149	Johnny Cash was on no less than seven labels.	N
+42-27	T149	Johnny Cash was on more than five labels.	N
+42-28	T149	Johnny Cash was on more than six labels.	N
+42-29	T149	Johnny Cash was on more than seven labels.	N
+43-0	T162	Bailiwick of Jersey has less than two languages.	E
+43-5	T162	Bailiwick of Jersey has no more than one language.	E
+43-6	T162	Bailiwick of Jersey has no more than two languages.	E
+43-7	T162	Bailiwick of Jersey has exactly one language.	E
+43-8	T162	Bailiwick of Jersey has exactly two languages.	C
+43-9	T162	Bailiwick of Jersey has one language.	E
+43-10	T162	Bailiwick of Jersey has two languages.	C
+43-11	T162	Bailiwick of Jersey has at least one language.	E
+43-12	T162	Bailiwick of Jersey has at least two languages.	C
+43-15	T162	Bailiwick of Jersey has no less than one language.	E
+43-16	T162	Bailiwick of Jersey has no less than two languages.	C
+43-17	T162	Bailiwick of Jersey has more than one language.	C
+43-18	T162	Bailiwick of Jersey has more than two languages.	C
+44-0	T172	The city of Bruges has less than three codes.	C
+44-1	T172	The city of Bruges has less than four codes.	C
+44-2	T172	The city of Bruges has less than five codes.	E
+44-9	T172	The city of Bruges has no more than three codes.	C
+44-10	T172	The city of Bruges has no more than four codes.	E
+44-11	T172	The city of Bruges has no more than five codes.	E
+44-12	T172	The city of Bruges has exactly three codes.	C
+44-13	T172	The city of Bruges has exactly four codes.	E
+44-14	T172	The city of Bruges has exactly five codes.	C
+44-15	T172	The city of Bruges has three codes.	E
+44-16	T172	The city of Bruges has four codes.	E
+44-17	T172	The city of Bruges has five codes.	C
+44-18	T172	The city of Bruges has at least three codes.	E
+44-19	T172	The city of Bruges has at least four codes.	E
+44-20	T172	The city of Bruges has at least five codes.	C
+44-24	T172	The city of Bruges has no less than three codes.	E
+44-25	T172	The city of Bruges has no less than four codes.	E
+44-26	T172	The city of Bruges has no less than five codes.	C
+44-27	T172	The city of Bruges has more than three codes.	E
+44-28	T172	The city of Bruges has more than four codes.	C
+44-29	T172	The city of Bruges has more than five codes.	C
+45-0	T174	Jidenna has appeared on less than two labels.	C
+45-1	T174	Jidenna has appeared on less than three labels.	C
+45-2	T174	Jidenna has appeared on less than four labels.	E
+45-9	T174	Jidenna has appeared on no more than two labels.	C
+45-10	T174	Jidenna has appeared on no more than three labels.	E
+45-11	T174	Jidenna has appeared on no more than four labels.	E
+45-12	T174	Jidenna has appeared on exactly two labels.	C
+45-13	T174	Jidenna has appeared on exactly three labels.	E
+45-14	T174	Jidenna has appeared on exactly four labels.	C
+45-15	T174	Jidenna has appeared on two labels.	E
+45-16	T174	Jidenna has appeared on three labels.	E
+45-17	T174	Jidenna has appeared on four labels.	C
+45-18	T174	Jidenna has appeared on at least two labels.	E
+45-19	T174	Jidenna has appeared on at least three labels.	E
+45-20	T174	Jidenna has appeared on at least four labels.	C
+45-24	T174	Jidenna has appeared on no less than two labels.	E
+45-25	T174	Jidenna has appeared on no less than three labels.	E
+45-26	T174	Jidenna has appeared on no less than four labels.	C
+45-27	T174	Jidenna has appeared on more than two labels.	E
+45-28	T174	Jidenna has appeared on more than three labels.	C
+45-29	T174	Jidenna has appeared on more than four labels.	C
+46-0	T220	Faith No More made music on less than four labels.	C
+46-1	T220	Faith No More made music on less than five labels.	C
+46-2	T220	Faith No More made music on less than six labels.	E
+46-9	T220	Faith No More made music on no more than four labels.	C
+46-10	T220	Faith No More made music on no more than five labels.	E
+46-11	T220	Faith No More made music on no more than six labels.	E
+46-12	T220	Faith No More made music on exactly four labels.	C
+46-13	T220	Faith No More made music on exactly five labels.	E
+46-14	T220	Faith No More made music on exactly six labels.	C
+46-15	T220	Faith No More made music on four labels.	E
+46-16	T220	Faith No More made music on five labels.	E
+46-17	T220	Faith No More made music on six labels.	C
+46-18	T220	Faith No More made music on at least four labels.	E
+46-19	T220	Faith No More made music on at least five labels.	E
+46-20	T220	Faith No More made music on at least six labels.	C
+46-24	T220	Faith No More made music on no less than four labels.	E
+46-25	T220	Faith No More made music on no less than five labels.	E
+46-26	T220	Faith No More made music on no less than six labels.	C
+46-27	T220	Faith No More made music on more than four labels.	E
+46-28	T220	Faith No More made music on more than five labels.	C
+46-29	T220	Faith No More made music on more than six labels.	C
+47-0	T263	Joe Biden has less than two wives.	C
+47-1	T263	Joe Biden has less than three wives.	E
+47-8	T263	Joe Biden has no more than one wife.	C
+47-9	T263	Joe Biden has no more than two wives.	E
+47-10	T263	Joe Biden has no more than three wives.	E
+47-11	T263	Joe Biden has exactly one wife.	C
+47-12	T263	Joe Biden has exactly two wives.	E
+47-13	T263	Joe Biden has exactly three wives.	C
+47-14	T263	Joe Biden has one wife.	E
+47-15	T263	Joe Biden has two wives.	E
+47-16	T263	Joe Biden has three wives.	C
+47-17	T263	Joe Biden has at least one wife.	E
+47-18	T263	Joe Biden has at least two wives.	E
+47-19	T263	Joe Biden has at least three wives.	C
+47-23	T263	Joe Biden has no less than one wife.	E
+47-24	T263	Joe Biden has no less than two wives.	E
+47-25	T263	Joe Biden has no less than three wives.	C
+47-26	T263	Joe Biden has more than one wife.	E
+47-27	T263	Joe Biden has more than two wives.	C
+47-28	T263	Joe Biden has more than three wives.	C
+48-0	T329	Johannes Gutenberg held less than two occupations.	C
+48-1	T329	Johannes Gutenberg held less than three occupations.	C
+48-2	T329	Johannes Gutenberg held less than four occupations.	E
+48-9	T329	Johannes Gutenberg held no more than two occupations.	C
+48-10	T329	Johannes Gutenberg held no more than three occupations.	E
+48-11	T329	Johannes Gutenberg held no more than four occupations.	E
+48-12	T329	Johannes Gutenberg held exactly two occupations.	C
+48-13	T329	Johannes Gutenberg held exactly three occupations.	E
+48-14	T329	Johannes Gutenberg held exactly four occupations.	C
+48-15	T329	Johannes Gutenberg held two occupations.	E
+48-16	T329	Johannes Gutenberg held three occupations.	E
+48-17	T329	Johannes Gutenberg held four occupations.	C
+48-18	T329	Johannes Gutenberg held at least two occupations.	E
+48-19	T329	Johannes Gutenberg held at least three occupations.	E
+48-20	T329	Johannes Gutenberg held at least four occupations.	C
+48-24	T329	Johannes Gutenberg held no less than two occupations.	E
+48-25	T329	Johannes Gutenberg held no less than three occupations.	E
+48-26	T329	Johannes Gutenberg held no less than four occupations.	C
+48-27	T329	Johannes Gutenberg held more than two occupations.	E
+48-28	T329	Johannes Gutenberg held more than three occupations.	C
+48-29	T329	Johannes Gutenberg held more than four occupations.	C
+49-0	T343	Kamelot is made up of less than three members.	N
+49-1	T343	Kamelot is made up of less than four members.	N
+49-2	T343	Kamelot is made up of less than five members.	N
+49-9	T343	Kamelot is made up of no more than three members.	N
+49-10	T343	Kamelot is made up of no more than four members.	N
+49-11	T343	Kamelot is made up of no more than five members.	N
+49-12	T343	Kamelot is made up of exactly three members.	N
+49-13	T343	Kamelot is made up of exactly four members.	N
+49-14	T343	Kamelot is made up of exactly five members.	N
+49-15	T343	Kamelot is made up of three members.	N
+49-16	T343	Kamelot is made up of four members.	N
+49-17	T343	Kamelot is made up of five members.	N
+49-18	T343	Kamelot is made up of at least three members.	N
+49-19	T343	Kamelot is made up of at least four members.	N
+49-20	T343	Kamelot is made up of at least five members.	N
+49-24	T343	Kamelot is made up of no less than three members.	N
+49-25	T343	Kamelot is made up of no less than four members.	N
+49-26	T343	Kamelot is made up of no less than five members.	N
+49-27	T343	Kamelot is made up of more than three members.	N
+49-28	T343	Kamelot is made up of more than four members.	N
+49-29	T343	Kamelot is made up of more than five members.	N
+50-0	T364	Hayley Williams can play less than six instruments.	C
+50-1	T364	Hayley Williams can play less than seven instruments.	C
+50-2	T364	Hayley Williams can play less than eight instruments.	E
+50-9	T364	Hayley Williams can play no more than six instruments.	C
+50-10	T364	Hayley Williams can play no more than seven instruments.	E
+50-11	T364	Hayley Williams can play no more than eight instruments.	E
+50-12	T364	Hayley Williams can play exactly six instruments.	C
+50-13	T364	Hayley Williams can play exactly seven instruments.	E
+50-14	T364	Hayley Williams can play exactly eight instruments.	C
+50-15	T364	Hayley Williams can play six instruments.	E
+50-16	T364	Hayley Williams can play seven instruments.	E
+50-17	T364	Hayley Williams can play eight instruments.	C
+50-18	T364	Hayley Williams can play at least six instruments.	E
+50-19	T364	Hayley Williams can play at least seven instruments.	E
+50-20	T364	Hayley Williams can play at least eight instruments.	C
+50-24	T364	Hayley Williams can play no less than six instruments.	E
+50-25	T364	Hayley Williams can play no less than seven instruments.	E
+50-26	T364	Hayley Williams can play no less than eight instruments.	C
+50-27	T364	Hayley Williams can play more than six instruments.	E
+50-28	T364	Hayley Williams can play more than seven instruments.	C
+50-29	T364	Hayley Williams can play more than eight instruments.	C
+51-0	T423	The artist Bryson Tiller has been signed to less than two labels.	N
+51-5	T423	The artist Bryson Tiller has been signed to no more than one label.	N
+51-6	T423	The artist Bryson Tiller has been signed to no more than two labels.	N
+51-7	T423	The artist Bryson Tiller has been signed to exactly one label.	N
+51-8	T423	The artist Bryson Tiller has been signed to exactly two labels.	N
+51-9	T423	The artist Bryson Tiller has been signed to one label.	N
+51-10	T423	The artist Bryson Tiller has been signed to two labels.	N
+51-11	T423	The artist Bryson Tiller has been signed to at least one label.	N
+51-12	T423	The artist Bryson Tiller has been signed to at least two labels.	N
+51-15	T423	The artist Bryson Tiller has been signed to no less than one label.	N
+51-16	T423	The artist Bryson Tiller has been signed to no less than two labels.	N
+51-17	T423	The artist Bryson Tiller has been signed to more than one label.	N
+51-18	T423	The artist Bryson Tiller has been signed to more than two labels.	N
+52-0	T465	Coolaid was released under less than two labels.	C
+52-1	T465	Coolaid was released under less than three labels.	E
+52-8	T465	Coolaid was released under no more than one label.	C
+52-9	T465	Coolaid was released under no more than two labels.	E
+52-10	T465	Coolaid was released under no more than three labels.	E
+52-11	T465	Coolaid was released under exactly one label.	C
+52-12	T465	Coolaid was released under exactly two labels.	E
+52-13	T465	Coolaid was released under exactly three labels.	C
+52-14	T465	Coolaid was released under one label.	E
+52-15	T465	Coolaid was released under two labels.	E
+52-16	T465	Coolaid was released under three labels.	C
+52-17	T465	Coolaid was released under at least one label.	E
+52-18	T465	Coolaid was released under at least two labels.	E
+52-19	T465	Coolaid was released under at least three labels.	C
+52-23	T465	Coolaid was released under no less than one label.	E
+52-24	T465	Coolaid was released under no less than two labels.	E
+52-25	T465	Coolaid was released under no less than three labels.	C
+52-26	T465	Coolaid was released under more than one label.	E
+52-27	T465	Coolaid was released under more than two labels.	C
+52-28	T465	Coolaid was released under more than three labels.	C
+53-0	T567	Dhruva is produced by less than two people.	C
+53-1	T567	Dhruva is produced by less than three people.	E
+53-8	T567	Dhruva is produced by no more than one person.	C
+53-9	T567	Dhruva is produced by no more than two people.	E
+53-10	T567	Dhruva is produced by no more than three people.	E
+53-11	T567	Dhruva is produced by exactly one person.	C
+53-12	T567	Dhruva is produced by exactly two people.	E
+53-13	T567	Dhruva is produced by exactly three people.	C
+53-14	T567	Dhruva is produced by one person.	E
+53-15	T567	Dhruva is produced by two people.	E
+53-16	T567	Dhruva is produced by three people.	C
+53-17	T567	Dhruva is produced by at least one person.	E
+53-18	T567	Dhruva is produced by at least two people.	E
+53-19	T567	Dhruva is produced by at least three people.	C
+53-23	T567	Dhruva is produced by no less than one person.	E
+53-24	T567	Dhruva is produced by no less than two people.	E
+53-25	T567	Dhruva is produced by no less than three people.	C
+53-26	T567	Dhruva is produced by more than one person.	E
+53-27	T567	Dhruva is produced by more than two people.	C
+53-28	T567	Dhruva is produced by more than three people.	C
+54-1	T711	Frances was married less than twice.	N
+54-6	T711	Frances was married no more than once.	N
+54-7	T711	Frances was married no more than twice.	N
+54-8	T711	Frances was married exactly once.	N
+54-9	T711	Frances was married exactly twice.	N
+54-10	T711	Frances was married once.	N
+54-11	T711	Frances was married twice.	N
+54-12	T711	Frances was married at least once.	N
+54-13	T711	Frances was married at least twice.	N
+54-16	T711	Frances was married no less than once.	N
+54-17	T711	Frances was married no less than twice.	N
+54-18	T711	Frances was married more than once.	N
+54-19	T711	Frances was married more than twice.	N
+55-0	T712	Coca-Cola has less than eight variants.	C
+55-1	T712	Coca-Cola has less than nine variants.	C
+55-2	T712	Coca-Cola has less than ten variants.	E
+55-9	T712	Coca-Cola has no more than eight variants.	C
+55-10	T712	Coca-Cola has no more than nine variants.	E
+55-11	T712	Coca-Cola has no more than ten variants.	E
+55-12	T712	Coca-Cola has exactly eight variants.	C
+55-13	T712	Coca-Cola has exactly nine variants.	E
+55-14	T712	Coca-Cola has exactly ten variants.	C
+55-15	T712	Coca-Cola has eight variants.	E
+55-16	T712	Coca-Cola has nine variants.	E
+55-17	T712	Coca-Cola has ten variants.	C
+55-18	T712	Coca-Cola has at least eight variants.	E
+55-19	T712	Coca-Cola has at least nine variants.	E
+55-20	T712	Coca-Cola has at least ten variants.	C
+55-24	T712	Coca-Cola has no less than eight variants.	E
+55-25	T712	Coca-Cola has no less than nine variants.	E
+55-26	T712	Coca-Cola has no less than ten variants.	C
+55-27	T712	Coca-Cola has more than eight variants.	E
+55-28	T712	Coca-Cola has more than nine variants.	C
+55-29	T712	Coca-Cola has more than ten variants.	C
+56-0	T732	Dido has released less than six albums.	N
+56-1	T732	Dido has released less than seven albums.	N
+56-2	T732	Dido has released less than eight albums.	N
+56-9	T732	Dido has released no more than six albums.	N
+56-10	T732	Dido has released no more than seven albums.	N
+56-11	T732	Dido has released no more than eight albums.	N
+56-12	T732	Dido has released exactly six albums.	N
+56-13	T732	Dido has released exactly seven albums.	N
+56-14	T732	Dido has released exactly eight albums.	N
+56-15	T732	Dido has released six albums.	N
+56-16	T732	Dido has released seven albums.	N
+56-17	T732	Dido has released eight albums.	N
+56-18	T732	Dido has released at least six albums.	N
+56-19	T732	Dido has released at least seven albums.	N
+56-20	T732	Dido has released at least eight albums.	N
+56-24	T732	Dido has released no less than six albums.	N
+56-25	T732	Dido has released no less than seven albums.	N
+56-26	T732	Dido has released no less than eight albums.	N
+56-27	T732	Dido has released more than six albums.	N
+56-28	T732	Dido has released more than seven albums.	N
+56-29	T732	Dido has released more than eight albums.	N
+57-0	T766	Cognac comes in less than two variants.	C
+57-1	T766	Cognac comes in less than three variants.	C
+57-2	T766	Cognac comes in less than four variants.	E
+57-9	T766	Cognac comes in no more than two variants.	C
+57-10	T766	Cognac comes in no more than three variants.	E
+57-11	T766	Cognac comes in no more than four variants.	E
+57-12	T766	Cognac comes in exactly two variants.	C
+57-13	T766	Cognac comes in exactly three variants.	E
+57-14	T766	Cognac comes in exactly four variants.	C
+57-15	T766	Cognac comes in two variants.	E
+57-16	T766	Cognac comes in three variants.	E
+57-17	T766	Cognac comes in four variants.	C
+57-18	T766	Cognac comes in at least two variants.	E
+57-19	T766	Cognac comes in at least three variants.	E
+57-20	T766	Cognac comes in at least four variants.	C
+57-24	T766	Cognac comes in no less than two variants.	E
+57-25	T766	Cognac comes in no less than three variants.	E
+57-26	T766	Cognac comes in no less than four variants.	C
+57-27	T766	Cognac comes in more than two variants.	E
+57-28	T766	Cognac comes in more than three variants.	C
+57-29	T766	Cognac comes in more than four variants.	C
+58-0	T771	Cruel Summer is worked on by less than 18 producers.	C
+58-1	T771	Cruel Summer is worked on by less than 19 producers.	C
+58-2	T771	Cruel Summer is worked on by less than 20 producers.	E
+58-9	T771	Cruel Summer is worked on by no more than 18 producers.	C
+58-10	T771	Cruel Summer is worked on by no more than 19 producers.	E
+58-11	T771	Cruel Summer is worked on by no more than 20 producers.	E
+58-12	T771	Cruel Summer is worked on by exactly 18 producers.	C
+58-13	T771	Cruel Summer is worked on by exactly 19 producers.	E
+58-14	T771	Cruel Summer is worked on by exactly 20 producers.	C
+58-15	T771	Cruel Summer is worked on by 18 producers.	E
+58-16	T771	Cruel Summer is worked on by 19 producers.	E
+58-17	T771	Cruel Summer is worked on by 20 producers.	C
+58-18	T771	Cruel Summer is worked on by at least 18 producers.	E
+58-19	T771	Cruel Summer is worked on by at least 19 producers.	E
+58-20	T771	Cruel Summer is worked on by at least 20 producers.	C
+58-24	T771	Cruel Summer is worked on by no less than 18 producers.	E
+58-25	T771	Cruel Summer is worked on by no less than 19 producers.	E
+58-26	T771	Cruel Summer is worked on by no less than 20 producers.	C
+58-27	T771	Cruel Summer is worked on by more than 18 producers.	E
+58-28	T771	Cruel Summer is worked on by more than 19 producers.	C
+58-29	T771	Cruel Summer is worked on by more than 20 producers.	C
+59-0	T774	David Letterman has had less than two wives.	C
+59-1	T774	David Letterman has had less than three wives.	E
+59-8	T774	David Letterman has had no more than one wife.	C
+59-9	T774	David Letterman has had no more than two wives.	E
+59-10	T774	David Letterman has had no more than three wives.	E
+59-11	T774	David Letterman has had exactly one wife.	C
+59-12	T774	David Letterman has had exactly two wives.	E
+59-13	T774	David Letterman has had exactly three wives.	C
+59-14	T774	David Letterman has had one wife.	E
+59-15	T774	David Letterman has had two wives.	E
+59-16	T774	David Letterman has had three wives.	C
+59-17	T774	David Letterman has had at least one wife.	E
+59-18	T774	David Letterman has had at least two wives.	E
+59-19	T774	David Letterman has had at least three wives.	C
+59-23	T774	David Letterman has had no less than one wife.	E
+59-24	T774	David Letterman has had no less than two wives.	E
+59-25	T774	David Letterman has had no less than three wives.	C
+59-26	T774	David Letterman has had more than one wife.	E
+59-27	T774	David Letterman has had more than two wives.	C
+59-28	T774	David Letterman has had more than three wives.	C
+61-0	T789	David Ngunaitponi has less than two names.	C
+61-1	T789	David Ngunaitponi has less than three names.	E
+61-8	T789	David Ngunaitponi has no more than one name.	C
+61-9	T789	David Ngunaitponi has no more than two names.	E
+61-10	T789	David Ngunaitponi has no more than three names.	E
+61-11	T789	David Ngunaitponi has exactly one name.	C
+61-12	T789	David Ngunaitponi has exactly two names.	E
+61-13	T789	David Ngunaitponi has exactly three names.	C
+61-14	T789	David Ngunaitponi has one name.	E
+61-15	T789	David Ngunaitponi has two names.	E
+61-16	T789	David Ngunaitponi has three names.	C
+61-17	T789	David Ngunaitponi has at least one name.	E
+61-18	T789	David Ngunaitponi has at least two names.	E
+61-19	T789	David Ngunaitponi has at least three names.	C
+61-23	T789	David Ngunaitponi has no less than one name.	E
+61-24	T789	David Ngunaitponi has no less than two names.	E
+61-25	T789	David Ngunaitponi has no less than three names.	C
+61-26	T789	David Ngunaitponi has more than one name.	E
+61-27	T789	David Ngunaitponi has more than two names.	C
+61-28	T789	David Ngunaitponi has more than three names.	C
+62-0	T806	Collective Soul has recorded less than 18 albums.	N
+62-1	T806	Collective Soul has recorded less than 19 albums.	N
+62-2	T806	Collective Soul has recorded less than 20 albums.	N
+62-9	T806	Collective Soul has recorded no more than 18 albums.	N
+62-10	T806	Collective Soul has recorded no more than 19 albums.	N
+62-11	T806	Collective Soul has recorded no more than 20 albums.	N
+62-12	T806	Collective Soul has recorded exactly 18 albums.	N
+62-13	T806	Collective Soul has recorded exactly 19 albums.	N
+62-14	T806	Collective Soul has recorded exactly 20 albums.	N
+62-15	T806	Collective Soul has recorded 18 albums.	N
+62-16	T806	Collective Soul has recorded 19 albums.	N
+62-17	T806	Collective Soul has recorded 20 albums.	N
+62-18	T806	Collective Soul has recorded at least 18 albums.	N
+62-19	T806	Collective Soul has recorded at least 19 albums.	N
+62-20	T806	Collective Soul has recorded at least 20 albums.	N
+62-24	T806	Collective Soul has recorded no less than 18 albums.	N
+62-25	T806	Collective Soul has recorded no less than 19 albums.	N
+62-26	T806	Collective Soul has recorded no less than 20 albums.	N
+62-27	T806	Collective Soul has recorded more than 18 albums.	N
+62-28	T806	Collective Soul has recorded more than 19 albums.	N
+62-29	T806	Collective Soul has recorded more than 20 albums.	N
+63-0	T814	Colonel Meow had less than two owners.	E
+63-5	T814	Colonel Meow had no more than one owner.	E
+63-6	T814	Colonel Meow had no more than two owners.	E
+63-7	T814	Colonel Meow had exactly one owner.	E
+63-8	T814	Colonel Meow had exactly two owners.	C
+63-9	T814	Colonel Meow had one owner.	E
+63-10	T814	Colonel Meow had two owners.	C
+63-11	T814	Colonel Meow had at least one owner.	E
+63-12	T814	Colonel Meow had at least two owners.	C
+63-15	T814	Colonel Meow had no less than one owner.	E
+63-16	T814	Colonel Meow had no less than two owners.	C
+63-17	T814	Colonel Meow had more than one owner.	C
+63-18	T814	Colonel Meow had more than two owners.	C
+64-0	T858	The film Death Note had less than two companies.	E
+64-5	T858	The film Death Note had no more than one company.	E
+64-6	T858	The film Death Note had no more than two companies.	E
+64-7	T858	The film Death Note had exactly one company.	E
+64-8	T858	The film Death Note had exactly two companies.	C
+64-9	T858	The film Death Note had one company.	E
+64-10	T858	The film Death Note had two companies.	C
+64-11	T858	The film Death Note had at least one company.	E
+64-12	T858	The film Death Note had at least two companies.	C
+64-15	T858	The film Death Note had no less than one company.	E
+64-16	T858	The film Death Note had no less than two companies.	C
+64-17	T858	The film Death Note had more than one company.	C
+64-18	T858	The film Death Note had more than two companies.	C
+65-1	T1276	Chad Kroeger has been married less than twice.	E
+65-6	T1276	Chad Kroeger has been married no more than once.	E
+65-7	T1276	Chad Kroeger has been married no more than twice.	E
+65-8	T1276	Chad Kroeger has been married exactly once.	E
+65-9	T1276	Chad Kroeger has been married exactly twice.	C
+65-10	T1276	Chad Kroeger has been married once.	E
+65-11	T1276	Chad Kroeger has been married twice.	C
+65-12	T1276	Chad Kroeger has been married at least once.	E
+65-13	T1276	Chad Kroeger has been married at least twice.	C
+65-16	T1276	Chad Kroeger has been married no less than once.	E
+65-17	T1276	Chad Kroeger has been married no less than twice.	C
+65-18	T1276	Chad Kroeger has been married more than once.	C
+65-19	T1276	Chad Kroeger has been married more than twice.	C
+66-0	T1426	Katey Sagal has been married less than three times.	C
+66-1	T1426	Katey Sagal has been married less than four times.	C
+66-2	T1426	Katey Sagal has been married less than five times.	E
+66-9	T1426	Katey Sagal has been married no more than three times.	C
+66-10	T1426	Katey Sagal has been married no more than four times.	E
+66-11	T1426	Katey Sagal has been married no more than five times.	E
+66-12	T1426	Katey Sagal has been married exactly three times.	C
+66-13	T1426	Katey Sagal has been married exactly four times.	E
+66-14	T1426	Katey Sagal has been married exactly five times.	C
+66-15	T1426	Katey Sagal has been married three times.	E
+66-16	T1426	Katey Sagal has been married four times.	E
+66-17	T1426	Katey Sagal has been married five times.	C
+66-18	T1426	Katey Sagal has been married at least three times.	E
+66-19	T1426	Katey Sagal has been married at least four times.	E
+66-20	T1426	Katey Sagal has been married at least five times.	C
+66-24	T1426	Katey Sagal has been married no less than three times.	E
+66-25	T1426	Katey Sagal has been married no less than four times.	E
+66-26	T1426	Katey Sagal has been married no less than five times.	C
+66-27	T1426	Katey Sagal has been married more than three times.	E
+66-28	T1426	Katey Sagal has been married more than four times.	C
+66-29	T1426	Katey Sagal has been married more than five times.	C
+67-1	T1450	Johan Petter Johansson got married less than twice.	E
+67-6	T1450	Johan Petter Johansson got married no more than once.	E
+67-7	T1450	Johan Petter Johansson got married no more than twice.	E
+67-8	T1450	Johan Petter Johansson got married exactly once.	E
+67-9	T1450	Johan Petter Johansson got married exactly twice.	C
+67-10	T1450	Johan Petter Johansson got married once.	E
+67-11	T1450	Johan Petter Johansson got married twice.	C
+67-12	T1450	Johan Petter Johansson got married at least once.	E
+67-13	T1450	Johan Petter Johansson got married at least twice.	C
+67-16	T1450	Johan Petter Johansson got married no less than once.	E
+67-17	T1450	Johan Petter Johansson got married no less than twice.	C
+67-18	T1450	Johan Petter Johansson got married more than once.	C
+67-19	T1450	Johan Petter Johansson got married more than twice.	C
+68-0	T1450	Johan Petter Johansson was known for less than two invensions.	C
+68-1	T1450	Johan Petter Johansson was known for less than three invensions.	C
+68-2	T1450	Johan Petter Johansson was known for less than four invensions.	E
+68-9	T1450	Johan Petter Johansson was known for no more than two invensions.	C
+68-10	T1450	Johan Petter Johansson was known for no more than three invensions.	E
+68-11	T1450	Johan Petter Johansson was known for no more than four invensions.	E
+68-12	T1450	Johan Petter Johansson was known for exactly two invensions.	C
+68-13	T1450	Johan Petter Johansson was known for exactly three invensions.	E
+68-14	T1450	Johan Petter Johansson was known for exactly four invensions.	C
+68-15	T1450	Johan Petter Johansson was known for two invensions.	E
+68-16	T1450	Johan Petter Johansson was known for three invensions.	E
+68-17	T1450	Johan Petter Johansson was known for four invensions.	C
+68-18	T1450	Johan Petter Johansson was known for at least two invensions.	E
+68-19	T1450	Johan Petter Johansson was known for at least three invensions.	E
+68-20	T1450	Johan Petter Johansson was known for at least four invensions.	C
+68-24	T1450	Johan Petter Johansson was known for no less than two invensions.	E
+68-25	T1450	Johan Petter Johansson was known for no less than three invensions.	E
+68-26	T1450	Johan Petter Johansson was known for no less than four invensions.	C
+68-27	T1450	Johan Petter Johansson was known for more than two invensions.	E
+68-28	T1450	Johan Petter Johansson was known for more than three invensions.	C
+68-29	T1450	Johan Petter Johansson was known for more than four invensions.	C
+69-0	T1455	Jeff Bezos has less than two houses.	E
+69-5	T1455	Jeff Bezos has no more than one house.	E
+69-6	T1455	Jeff Bezos has no more than two houses.	E
+69-7	T1455	Jeff Bezos has exactly one house.	E
+69-8	T1455	Jeff Bezos has exactly two houses.	C
+69-9	T1455	Jeff Bezos has one house.	E
+69-10	T1455	Jeff Bezos has two houses.	C
+69-11	T1455	Jeff Bezos has at least one house.	E
+69-12	T1455	Jeff Bezos has at least two houses.	C
+69-15	T1455	Jeff Bezos has no less than one house.	E
+69-16	T1455	Jeff Bezos has no less than two houses.	C
+69-17	T1455	Jeff Bezos has more than one house.	C
+69-18	T1455	Jeff Bezos has more than two houses.	C
+70-0	T1478	John Wesley Harding was written by less than two people.	N
+70-5	T1478	John Wesley Harding was written by no more than one person.	N
+70-6	T1478	John Wesley Harding was written by no more than two people.	N
+70-7	T1478	John Wesley Harding was written by exactly one person.	N
+70-8	T1478	John Wesley Harding was written by exactly two people.	N
+70-9	T1478	John Wesley Harding was written by one person.	N
+70-10	T1478	John Wesley Harding was written by two people.	N
+70-11	T1478	John Wesley Harding was written by at least one person.	N
+70-12	T1478	John Wesley Harding was written by at least two people.	N
+70-15	T1478	John Wesley Harding was written by no less than one person.	N
+70-16	T1478	John Wesley Harding was written by no less than two people.	N
+70-17	T1478	John Wesley Harding was written by more than one person.	N
+70-18	T1478	John Wesley Harding was written by more than two people.	N
+71-0	T1493	Josh Homme has been on less than 11 labels.	C
+71-1	T1493	Josh Homme has been on less than 12 labels.	C
+71-2	T1493	Josh Homme has been on less than 13 labels.	E
+71-9	T1493	Josh Homme has been on no more than 11 labels.	C
+71-10	T1493	Josh Homme has been on no more than 12 labels.	E
+71-11	T1493	Josh Homme has been on no more than 13 labels.	E
+71-12	T1493	Josh Homme has been on exactly 11 labels.	C
+71-13	T1493	Josh Homme has been on exactly 12 labels.	E
+71-14	T1493	Josh Homme has been on exactly 13 labels.	C
+71-15	T1493	Josh Homme has been on 11 labels.	E
+71-16	T1493	Josh Homme has been on 12 labels.	E
+71-17	T1493	Josh Homme has been on 13 labels.	C
+71-18	T1493	Josh Homme has been on at least 11 labels.	E
+71-19	T1493	Josh Homme has been on at least 12 labels.	E
+71-20	T1493	Josh Homme has been on at least 13 labels.	C
+71-24	T1493	Josh Homme has been on no less than 11 labels.	E
+71-25	T1493	Josh Homme has been on no less than 12 labels.	E
+71-26	T1493	Josh Homme has been on no less than 13 labels.	C
+71-27	T1493	Josh Homme has been on more than 11 labels.	E
+71-28	T1493	Josh Homme has been on more than 12 labels.	C
+71-29	T1493	Josh Homme has been on more than 13 labels.	C
+72-0	T1520	Kathie Lee Gifford had less than two children.	C
+72-1	T1520	Kathie Lee Gifford had less than three children.	E
+72-8	T1520	Kathie Lee Gifford had no more than one child.	C
+72-9	T1520	Kathie Lee Gifford had no more than two children.	E
+72-10	T1520	Kathie Lee Gifford had no more than three children.	E
+72-11	T1520	Kathie Lee Gifford had exactly one child.	C
+72-12	T1520	Kathie Lee Gifford had exactly two children.	E
+72-13	T1520	Kathie Lee Gifford had exactly three children.	C
+72-14	T1520	Kathie Lee Gifford had one child.	E
+72-15	T1520	Kathie Lee Gifford had two children.	E
+72-16	T1520	Kathie Lee Gifford had three children.	C
+72-17	T1520	Kathie Lee Gifford had at least one child.	E
+72-18	T1520	Kathie Lee Gifford had at least two children.	E
+72-19	T1520	Kathie Lee Gifford had at least three children.	C
+72-23	T1520	Kathie Lee Gifford had no less than one child.	E
+72-24	T1520	Kathie Lee Gifford had no less than two children.	E
+72-25	T1520	Kathie Lee Gifford had no less than three children.	C
+72-26	T1520	Kathie Lee Gifford had more than one child.	E
+72-27	T1520	Kathie Lee Gifford had more than two children.	C
+72-28	T1520	Kathie Lee Gifford had more than three children.	C
+73-0	T1571	Jordan Fisher lives with less than two dogs.	N
+73-1	T1571	Jordan Fisher lives with less than three dogs.	N
+73-8	T1571	Jordan Fisher lives with no more than one dog.	N
+73-9	T1571	Jordan Fisher lives with no more than two dogs.	N
+73-10	T1571	Jordan Fisher lives with no more than three dogs.	N
+73-11	T1571	Jordan Fisher lives with exactly one dog.	N
+73-12	T1571	Jordan Fisher lives with exactly two dogs.	N
+73-13	T1571	Jordan Fisher lives with exactly three dogs.	N
+73-14	T1571	Jordan Fisher lives with one dog.	N
+73-15	T1571	Jordan Fisher lives with two dogs.	N
+73-16	T1571	Jordan Fisher lives with three dogs.	N
+73-17	T1571	Jordan Fisher lives with at least one dog.	N
+73-18	T1571	Jordan Fisher lives with at least two dogs.	N
+73-19	T1571	Jordan Fisher lives with at least three dogs.	N
+73-23	T1571	Jordan Fisher lives with no less than one dog.	N
+73-24	T1571	Jordan Fisher lives with no less than two dogs.	N
+73-25	T1571	Jordan Fisher lives with no less than three dogs.	N
+73-26	T1571	Jordan Fisher lives with more than one dog.	N
+73-27	T1571	Jordan Fisher lives with more than two dogs.	N
+73-28	T1571	Jordan Fisher lives with more than three dogs.	N
+74-0	T1607	Jigsaw was distributed by less than two companies.	E
+74-5	T1607	Jigsaw was distributed by no more than one company.	E
+74-6	T1607	Jigsaw was distributed by no more than two companies.	E
+74-7	T1607	Jigsaw was distributed by exactly one company.	E
+74-8	T1607	Jigsaw was distributed by exactly two companies.	C
+74-9	T1607	Jigsaw was distributed by one company.	E
+74-10	T1607	Jigsaw was distributed by two companies.	C
+74-11	T1607	Jigsaw was distributed by at least one company.	E
+74-12	T1607	Jigsaw was distributed by at least two companies.	C
+74-15	T1607	Jigsaw was distributed by no less than one company.	E
+74-16	T1607	Jigsaw was distributed by no less than two companies.	C
+74-17	T1607	Jigsaw was distributed by more than one company.	C
+74-18	T1607	Jigsaw was distributed by more than two companies.	C
+75-0	T1657	Julia Michaels has released music on less than two labels.	E
+75-5	T1657	Julia Michaels has released music on no more than one label.	E
+75-6	T1657	Julia Michaels has released music on no more than two labels.	E
+75-7	T1657	Julia Michaels has released music on exactly one label.	E
+75-8	T1657	Julia Michaels has released music on exactly two labels.	C
+75-9	T1657	Julia Michaels has released music on one label.	E
+75-10	T1657	Julia Michaels has released music on two labels.	C
+75-11	T1657	Julia Michaels has released music on at least one label.	E
+75-12	T1657	Julia Michaels has released music on at least two labels.	C
+75-15	T1657	Julia Michaels has released music on no less than one label.	E
+75-16	T1657	Julia Michaels has released music on no less than two labels.	C
+75-17	T1657	Julia Michaels has released music on more than one label.	C
+75-18	T1657	Julia Michaels has released music on more than two labels.	C
+76-0	T1671	Jim Mattis worked for less than two Presidents.	E
+76-5	T1671	Jim Mattis worked for no more than one President.	E
+76-6	T1671	Jim Mattis worked for no more than two Presidents.	E
+76-7	T1671	Jim Mattis worked for exactly one President.	E
+76-8	T1671	Jim Mattis worked for exactly two Presidents.	C
+76-9	T1671	Jim Mattis worked for one President.	E
+76-10	T1671	Jim Mattis worked for two Presidents.	C
+76-11	T1671	Jim Mattis worked for at least one President.	E
+76-12	T1671	Jim Mattis worked for at least two Presidents.	C
+76-15	T1671	Jim Mattis worked for no less than one President.	E
+76-16	T1671	Jim Mattis worked for no less than two Presidents.	C
+76-17	T1671	Jim Mattis worked for more than one President.	C
+76-18	T1671	Jim Mattis worked for more than two Presidents.	C
+77-0	T1683	Katie Cassidy is married with less than two dogs.	N
+77-1	T1683	Katie Cassidy is married with less than three dogs.	N
+77-8	T1683	Katie Cassidy is married with no more than one dog.	N
+77-9	T1683	Katie Cassidy is married with no more than two dogs.	N
+77-10	T1683	Katie Cassidy is married with no more than three dogs.	N
+77-11	T1683	Katie Cassidy is married with exactly one dog.	N
+77-12	T1683	Katie Cassidy is married with exactly two dogs.	N
+77-13	T1683	Katie Cassidy is married with exactly three dogs.	N
+77-14	T1683	Katie Cassidy is married with one dog.	N
+77-15	T1683	Katie Cassidy is married with two dogs.	N
+77-16	T1683	Katie Cassidy is married with three dogs.	N
+77-17	T1683	Katie Cassidy is married with at least one dog.	N
+77-18	T1683	Katie Cassidy is married with at least two dogs.	N
+77-19	T1683	Katie Cassidy is married with at least three dogs.	N
+77-23	T1683	Katie Cassidy is married with no less than one dog.	N
+77-24	T1683	Katie Cassidy is married with no less than two dogs.	N
+77-25	T1683	Katie Cassidy is married with no less than three dogs.	N
+77-26	T1683	Katie Cassidy is married with more than one dog.	N
+77-27	T1683	Katie Cassidy is married with more than two dogs.	N
+77-28	T1683	Katie Cassidy is married with more than three dogs.	N
+78-0	T1685	Keeley Hawes has had less than two husbands.	C
+78-1	T1685	Keeley Hawes has had less than three husbands.	E
+78-8	T1685	Keeley Hawes has had no more than one husband.	C
+78-9	T1685	Keeley Hawes has had no more than two husbands.	E
+78-10	T1685	Keeley Hawes has had no more than three husbands.	E
+78-11	T1685	Keeley Hawes has had exactly one husband.	C
+78-12	T1685	Keeley Hawes has had exactly two husbands.	E
+78-13	T1685	Keeley Hawes has had exactly three husbands.	C
+78-14	T1685	Keeley Hawes has had one husband.	E
+78-15	T1685	Keeley Hawes has had two husbands.	E
+78-16	T1685	Keeley Hawes has had three husbands.	C
+78-17	T1685	Keeley Hawes has had at least one husband.	E
+78-18	T1685	Keeley Hawes has had at least two husbands.	E
+78-19	T1685	Keeley Hawes has had at least three husbands.	C
+78-23	T1685	Keeley Hawes has had no less than one husband.	E
+78-24	T1685	Keeley Hawes has had no less than two husbands.	E
+78-25	T1685	Keeley Hawes has had no less than three husbands.	C
+78-26	T1685	Keeley Hawes has had more than one husband.	E
+78-27	T1685	Keeley Hawes has had more than two husbands.	C
+78-28	T1685	Keeley Hawes has had more than three husbands.	C
+79-0	T1686	Justin Bieber has made music on less than four labels.	C
+79-1	T1686	Justin Bieber has made music on less than five labels.	C
+79-2	T1686	Justin Bieber has made music on less than six labels.	E
+79-9	T1686	Justin Bieber has made music on no more than four labels.	C
+79-10	T1686	Justin Bieber has made music on no more than five labels.	E
+79-11	T1686	Justin Bieber has made music on no more than six labels.	E
+79-12	T1686	Justin Bieber has made music on exactly four labels.	C
+79-13	T1686	Justin Bieber has made music on exactly five labels.	E
+79-14	T1686	Justin Bieber has made music on exactly six labels.	C
+79-15	T1686	Justin Bieber has made music on four labels.	E
+79-16	T1686	Justin Bieber has made music on five labels.	E
+79-17	T1686	Justin Bieber has made music on six labels.	C
+79-18	T1686	Justin Bieber has made music on at least four labels.	E
+79-19	T1686	Justin Bieber has made music on at least five labels.	E
+79-20	T1686	Justin Bieber has made music on at least six labels.	C
+79-24	T1686	Justin Bieber has made music on no less than four labels.	E
+79-25	T1686	Justin Bieber has made music on no less than five labels.	E
+79-26	T1686	Justin Bieber has made music on no less than six labels.	C
+79-27	T1686	Justin Bieber has made music on more than four labels.	E
+79-28	T1686	Justin Bieber has made music on more than five labels.	C
+79-29	T1686	Justin Bieber has made music on more than six labels.	C
+80-0	T1697	Dr. John S. Pemberton had less than two wives.	E
+80-5	T1697	Dr. John S. Pemberton had no more than one wife.	E
+80-6	T1697	Dr. John S. Pemberton had no more than two wives.	E
+80-7	T1697	Dr. John S. Pemberton had exactly one wife.	E
+80-8	T1697	Dr. John S. Pemberton had exactly two wives.	C
+80-9	T1697	Dr. John S. Pemberton had one wife.	E
+80-10	T1697	Dr. John S. Pemberton had two wives.	C
+80-11	T1697	Dr. John S. Pemberton had at least one wife.	E
+80-12	T1697	Dr. John S. Pemberton had at least two wives.	C
+80-15	T1697	Dr. John S. Pemberton had no less than one wife.	E
+80-16	T1697	Dr. John S. Pemberton had no less than two wives.	C
+80-17	T1697	Dr. John S. Pemberton had more than one wife.	C
+80-18	T1697	Dr. John S. Pemberton had more than two wives.	C
+81-0	T1992	Incarnate was coloured by less than two people.	C
+81-1	T1992	Incarnate was coloured by less than three people.	E
+81-8	T1992	Incarnate was coloured by no more than one person.	C
+81-9	T1992	Incarnate was coloured by no more than two people.	E
+81-10	T1992	Incarnate was coloured by no more than three people.	E
+81-11	T1992	Incarnate was coloured by exactly one person.	C
+81-12	T1992	Incarnate was coloured by exactly two people.	E
+81-13	T1992	Incarnate was coloured by exactly three people.	C
+81-14	T1992	Incarnate was coloured by one person.	E
+81-15	T1992	Incarnate was coloured by two people.	E
+81-16	T1992	Incarnate was coloured by three people.	C
+81-17	T1992	Incarnate was coloured by at least one person.	E
+81-18	T1992	Incarnate was coloured by at least two people.	E
+81-19	T1992	Incarnate was coloured by at least three people.	C
+81-23	T1992	Incarnate was coloured by no less than one person.	E
+81-24	T1992	Incarnate was coloured by no less than two people.	E
+81-25	T1992	Incarnate was coloured by no less than three people.	C
+81-26	T1992	Incarnate was coloured by more than one person.	E
+81-27	T1992	Incarnate was coloured by more than two people.	C
+81-28	T1992	Incarnate was coloured by more than three people.	C
+82-0	T2055	African trypanosomiasis has less than two stages.	C
+82-1	T2055	African trypanosomiasis has less than three stages.	E
+82-8	T2055	African trypanosomiasis has no more than one stage.	C
+82-9	T2055	African trypanosomiasis has no more than two stages.	E
+82-10	T2055	African trypanosomiasis has no more than three stages.	E
+82-11	T2055	African trypanosomiasis has exactly one stage.	C
+82-12	T2055	African trypanosomiasis has exactly two stages.	E
+82-13	T2055	African trypanosomiasis has exactly three stages.	C
+82-14	T2055	African trypanosomiasis has one stage.	E
+82-15	T2055	African trypanosomiasis has two stages.	E
+82-16	T2055	African trypanosomiasis has three stages.	C
+82-17	T2055	African trypanosomiasis has at least one stage.	E
+82-18	T2055	African trypanosomiasis has at least two stages.	E
+82-19	T2055	African trypanosomiasis has at least three stages.	C
+82-23	T2055	African trypanosomiasis has no less than one stage.	E
+82-24	T2055	African trypanosomiasis has no less than two stages.	E
+82-25	T2055	African trypanosomiasis has no less than three stages.	C
+82-26	T2055	African trypanosomiasis has more than one stage.	E
+82-27	T2055	African trypanosomiasis has more than two stages.	C
+82-28	T2055	African trypanosomiasis has more than three stages.	C
+83-0	T2060	Angelina has undergone less than two owners.	E
+83-5	T2060	Angelina has undergone no more than one owner.	E
+83-6	T2060	Angelina has undergone no more than two owners.	E
+83-7	T2060	Angelina has undergone exactly one owner.	E
+83-8	T2060	Angelina has undergone exactly two owners.	C
+83-9	T2060	Angelina has undergone one owner.	E
+83-10	T2060	Angelina has undergone two owners.	C
+83-11	T2060	Angelina has undergone at least one owner.	E
+83-12	T2060	Angelina has undergone at least two owners.	C
+83-15	T2060	Angelina has undergone no less than one owner.	E
+83-16	T2060	Angelina has undergone no less than two owners.	C
+83-17	T2060	Angelina has undergone more than one owner.	C
+83-18	T2060	Angelina has undergone more than two owners.	C
+84-0	T2060	Angelina has less than three locations.	C
+84-1	T2060	Angelina has less than four locations.	C
+84-2	T2060	Angelina has less than five locations.	E
+84-9	T2060	Angelina has no more than three locations.	C
+84-10	T2060	Angelina has no more than four locations.	E
+84-11	T2060	Angelina has no more than five locations.	E
+84-12	T2060	Angelina has exactly three locations.	C
+84-13	T2060	Angelina has exactly four locations.	E
+84-14	T2060	Angelina has exactly five locations.	C
+84-15	T2060	Angelina has three locations.	E
+84-16	T2060	Angelina has four locations.	E
+84-17	T2060	Angelina has five locations.	C
+84-18	T2060	Angelina has at least three locations.	E
+84-19	T2060	Angelina has at least four locations.	E
+84-20	T2060	Angelina has at least five locations.	C
+84-24	T2060	Angelina has no less than three locations.	E
+84-25	T2060	Angelina has no less than four locations.	E
+84-26	T2060	Angelina has no less than five locations.	C
+84-27	T2060	Angelina has more than three locations.	E
+84-28	T2060	Angelina has more than four locations.	C
+84-29	T2060	Angelina has more than five locations.	C
+85-0	T2073	The BMW 3 Series had less than two designers.	C
+85-1	T2073	The BMW 3 Series had less than three designers.	E
+85-8	T2073	The BMW 3 Series had no more than one designer.	C
+85-9	T2073	The BMW 3 Series had no more than two designers.	E
+85-10	T2073	The BMW 3 Series had no more than three designers.	E
+85-11	T2073	The BMW 3 Series had exactly one designer.	C
+85-12	T2073	The BMW 3 Series had exactly two designers.	E
+85-13	T2073	The BMW 3 Series had exactly three designers.	C
+85-14	T2073	The BMW 3 Series had one designer.	E
+85-15	T2073	The BMW 3 Series had two designers.	E
+85-16	T2073	The BMW 3 Series had three designers.	C
+85-17	T2073	The BMW 3 Series had at least one designer.	E
+85-18	T2073	The BMW 3 Series had at least two designers.	E
+85-19	T2073	The BMW 3 Series had at least three designers.	C
+85-23	T2073	The BMW 3 Series had no less than one designer.	E
+85-24	T2073	The BMW 3 Series had no less than two designers.	E
+85-25	T2073	The BMW 3 Series had no less than three designers.	C
+85-26	T2073	The BMW 3 Series had more than one designer.	E
+85-27	T2073	The BMW 3 Series had more than two designers.	C
+85-28	T2073	The BMW 3 Series had more than three designers.	C
+86-0	T2099	Debian is compatible with less than ten platforms.	C
+86-1	T2099	Debian is compatible with less than 11 platforms.	C
+86-2	T2099	Debian is compatible with less than 12 platforms.	E
+86-9	T2099	Debian is compatible with no more than ten platforms.	C
+86-10	T2099	Debian is compatible with no more than 11 platforms.	E
+86-11	T2099	Debian is compatible with no more than 12 platforms.	E
+86-12	T2099	Debian is compatible with exactly ten platforms.	C
+86-13	T2099	Debian is compatible with exactly 11 platforms.	E
+86-14	T2099	Debian is compatible with exactly 12 platforms.	C
+86-15	T2099	Debian is compatible with ten platforms.	E
+86-16	T2099	Debian is compatible with 11 platforms.	E
+86-17	T2099	Debian is compatible with 12 platforms.	C
+86-18	T2099	Debian is compatible with at least ten platforms.	E
+86-19	T2099	Debian is compatible with at least 11 platforms.	E
+86-20	T2099	Debian is compatible with at least 12 platforms.	C
+86-24	T2099	Debian is compatible with no less than ten platforms.	E
+86-25	T2099	Debian is compatible with no less than 11 platforms.	E
+86-26	T2099	Debian is compatible with no less than 12 platforms.	C
+86-27	T2099	Debian is compatible with more than ten platforms.	E
+86-28	T2099	Debian is compatible with more than 11 platforms.	C
+86-29	T2099	Debian is compatible with more than 12 platforms.	C
+87-0	T2106	Easter is related to less than 13 holidays.	C
+87-1	T2106	Easter is related to less than 14 holidays.	C
+87-2	T2106	Easter is related to less than 15 holidays.	E
+87-9	T2106	Easter is related to no more than 13 holidays.	C
+87-10	T2106	Easter is related to no more than 14 holidays.	E
+87-11	T2106	Easter is related to no more than 15 holidays.	E
+87-12	T2106	Easter is related to exactly 13 holidays.	C
+87-13	T2106	Easter is related to exactly 14 holidays.	E
+87-14	T2106	Easter is related to exactly 15 holidays.	C
+87-15	T2106	Easter is related to 13 holidays.	E
+87-16	T2106	Easter is related to 14 holidays.	E
+87-17	T2106	Easter is related to 15 holidays.	C
+87-18	T2106	Easter is related to at least 13 holidays.	E
+87-19	T2106	Easter is related to at least 14 holidays.	E
+87-20	T2106	Easter is related to at least 15 holidays.	C
+87-24	T2106	Easter is related to no less than 13 holidays.	E
+87-25	T2106	Easter is related to no less than 14 holidays.	E
+87-26	T2106	Easter is related to no less than 15 holidays.	C
+87-27	T2106	Easter is related to more than 13 holidays.	E
+87-28	T2106	Easter is related to more than 14 holidays.	C
+87-29	T2106	Easter is related to more than 15 holidays.	C
+88-0	T2115	Fatty liver has less than two types.	C
+88-1	T2115	Fatty liver has less than three types.	E
+88-8	T2115	Fatty liver has no more than one type.	C
+88-9	T2115	Fatty liver has no more than two types.	E
+88-10	T2115	Fatty liver has no more than three types.	E
+88-11	T2115	Fatty liver has exactly one type.	C
+88-12	T2115	Fatty liver has exactly two types.	E
+88-13	T2115	Fatty liver has exactly three types.	C
+88-14	T2115	Fatty liver has one type.	E
+88-15	T2115	Fatty liver has two types.	E
+88-16	T2115	Fatty liver has three types.	C
+88-17	T2115	Fatty liver has at least one type.	E
+88-18	T2115	Fatty liver has at least two types.	E
+88-19	T2115	Fatty liver has at least three types.	C
+88-23	T2115	Fatty liver has no less than one type.	E
+88-24	T2115	Fatty liver has no less than two types.	E
+88-25	T2115	Fatty liver has no less than three types.	C
+88-26	T2115	Fatty liver has more than one type.	E
+88-27	T2115	Fatty liver has more than two types.	C
+88-28	T2115	Fatty liver has more than three types.	C
+89-0	T2126	The GMAT exam has less than three sections.	C
+89-1	T2126	The GMAT exam has less than four sections.	C
+89-2	T2126	The GMAT exam has less than five sections.	E
+89-9	T2126	The GMAT exam has no more than three sections.	C
+89-10	T2126	The GMAT exam has no more than four sections.	E
+89-11	T2126	The GMAT exam has no more than five sections.	E
+89-12	T2126	The GMAT exam has exactly three sections.	C
+89-13	T2126	The GMAT exam has exactly four sections.	E
+89-14	T2126	The GMAT exam has exactly five sections.	C
+89-15	T2126	The GMAT exam has three sections.	E
+89-16	T2126	The GMAT exam has four sections.	E
+89-17	T2126	The GMAT exam has five sections.	C
+89-18	T2126	The GMAT exam has at least three sections.	E
+89-19	T2126	The GMAT exam has at least four sections.	E
+89-20	T2126	The GMAT exam has at least five sections.	C
+89-24	T2126	The GMAT exam has no less than three sections.	E
+89-25	T2126	The GMAT exam has no less than four sections.	E
+89-26	T2126	The GMAT exam has no less than five sections.	C
+89-27	T2126	The GMAT exam has more than three sections.	E
+89-28	T2126	The GMAT exam has more than four sections.	C
+89-29	T2126	The GMAT exam has more than five sections.	C
+90-0	T2134	The HTC Dream has less than two antennae.	C
+90-1	T2134	The HTC Dream has less than three antennae.	E
+90-8	T2134	The HTC Dream has no more than one antenna.	C
+90-9	T2134	The HTC Dream has no more than two antennae.	E
+90-10	T2134	The HTC Dream has no more than three antennae.	E
+90-11	T2134	The HTC Dream has exactly one antenna.	C
+90-12	T2134	The HTC Dream has exactly two antennae.	E
+90-13	T2134	The HTC Dream has exactly three antennae.	C
+90-14	T2134	The HTC Dream has one antenna.	E
+90-15	T2134	The HTC Dream has two antennae.	E
+90-16	T2134	The HTC Dream has three antennae.	C
+90-17	T2134	The HTC Dream has at least one antenna.	E
+90-18	T2134	The HTC Dream has at least two antennae.	E
+90-19	T2134	The HTC Dream has at least three antennae.	C
+90-23	T2134	The HTC Dream has no less than one antenna.	E
+90-24	T2134	The HTC Dream has no less than two antennae.	E
+90-25	T2134	The HTC Dream has no less than three antennae.	C
+90-26	T2134	The HTC Dream has more than one antenna.	E
+90-27	T2134	The HTC Dream has more than two antennae.	C
+90-28	T2134	The HTC Dream has more than three antennae.	C
+91-0	T2136	Hyperthyroidism has less than five causes.	C
+91-1	T2136	Hyperthyroidism has less than six causes.	C
+91-2	T2136	Hyperthyroidism has less than seven causes.	E
+91-9	T2136	Hyperthyroidism has no more than five causes.	C
+91-10	T2136	Hyperthyroidism has no more than six causes.	E
+91-11	T2136	Hyperthyroidism has no more than seven causes.	E
+91-12	T2136	Hyperthyroidism has exactly five causes.	C
+91-13	T2136	Hyperthyroidism has exactly six causes.	E
+91-14	T2136	Hyperthyroidism has exactly seven causes.	C
+91-15	T2136	Hyperthyroidism has five causes.	E
+91-16	T2136	Hyperthyroidism has six causes.	E
+91-17	T2136	Hyperthyroidism has seven causes.	C
+91-18	T2136	Hyperthyroidism has at least five causes.	E
+91-19	T2136	Hyperthyroidism has at least six causes.	E
+91-20	T2136	Hyperthyroidism has at least seven causes.	C
+91-24	T2136	Hyperthyroidism has no less than five causes.	E
+91-25	T2136	Hyperthyroidism has no less than six causes.	E
+91-26	T2136	Hyperthyroidism has no less than seven causes.	C
+91-27	T2136	Hyperthyroidism has more than five causes.	E
+91-28	T2136	Hyperthyroidism has more than six causes.	C
+91-29	T2136	Hyperthyroidism has more than seven causes.	C
+92-0	T2138	The International English Language Testing System has less than three parts.	C
+92-1	T2138	The International English Language Testing System has less than four parts.	C
+92-2	T2138	The International English Language Testing System has less than five parts.	E
+92-9	T2138	The International English Language Testing System has no more than three parts.	C
+92-10	T2138	The International English Language Testing System has no more than four parts.	E
+92-11	T2138	The International English Language Testing System has no more than five parts.	E
+92-12	T2138	The International English Language Testing System has exactly three parts.	C
+92-13	T2138	The International English Language Testing System has exactly four parts.	E
+92-14	T2138	The International English Language Testing System has exactly five parts.	C
+92-15	T2138	The International English Language Testing System has three parts.	E
+92-16	T2138	The International English Language Testing System has four parts.	E
+92-17	T2138	The International English Language Testing System has five parts.	C
+92-18	T2138	The International English Language Testing System has at least three parts.	E
+92-19	T2138	The International English Language Testing System has at least four parts.	E
+92-20	T2138	The International English Language Testing System has at least five parts.	C
+92-24	T2138	The International English Language Testing System has no less than three parts.	E
+92-25	T2138	The International English Language Testing System has no less than four parts.	E
+92-26	T2138	The International English Language Testing System has no less than five parts.	C
+92-27	T2138	The International English Language Testing System has more than three parts.	E
+92-28	T2138	The International English Language Testing System has more than four parts.	C
+92-29	T2138	The International English Language Testing System has more than five parts.	C
+93-0	T2142	There are less than two tests.	C
+93-1	T2142	There are less than three tests.	E
+93-8	T2142	There is no more than one test.	C
+93-9	T2142	There are no more than two tests.	E
+93-10	T2142	There are no more than three tests.	E
+93-11	T2142	There is exactly one test.	C
+93-12	T2142	There are exactly two tests.	E
+93-13	T2142	There are exactly three tests.	C
+93-14	T2142	There is one test.	E
+93-15	T2142	There are two tests.	E
+93-16	T2142	There are three tests.	C
+93-17	T2142	There is at least one test.	E
+93-18	T2142	There are at least two tests.	E
+93-19	T2142	There are at least three tests.	C
+93-23	T2142	There is no less than one test.	E
+93-24	T2142	There are no less than two tests.	E
+93-25	T2142	There are no less than three tests.	C
+93-26	T2142	There is more than one test.	E
+93-27	T2142	There are more than two tests.	C
+93-28	T2142	There are more than three tests.	C
+94-0	T2155	Māgha Pūjā is observed in less than four countries.	C
+94-1	T2155	Māgha Pūjā is observed in less than five countries.	C
+94-2	T2155	Māgha Pūjā is observed in less than six countries.	E
+94-9	T2155	Māgha Pūjā is observed in no more than four countries.	C
+94-10	T2155	Māgha Pūjā is observed in no more than five countries.	E
+94-11	T2155	Māgha Pūjā is observed in no more than six countries.	E
+94-12	T2155	Māgha Pūjā is observed in exactly four countries.	C
+94-13	T2155	Māgha Pūjā is observed in exactly five countries.	E
+94-14	T2155	Māgha Pūjā is observed in exactly six countries.	C
+94-15	T2155	Māgha Pūjā is observed in four countries.	E
+94-16	T2155	Māgha Pūjā is observed in five countries.	E
+94-17	T2155	Māgha Pūjā is observed in six countries.	C
+94-18	T2155	Māgha Pūjā is observed in at least four countries.	E
+94-19	T2155	Māgha Pūjā is observed in at least five countries.	E
+94-20	T2155	Māgha Pūjā is observed in at least six countries.	C
+94-24	T2155	Māgha Pūjā is observed in no less than four countries.	E
+94-25	T2155	Māgha Pūjā is observed in no less than five countries.	E
+94-26	T2155	Māgha Pūjā is observed in no less than six countries.	C
+94-27	T2155	Māgha Pūjā is observed in more than four countries.	E
+94-28	T2155	Māgha Pūjā is observed in more than five countries.	C
+94-29	T2155	Māgha Pūjā is observed in more than six countries.	C
+95-0	T2161	Mawlid is a holiday in less than 31 countries.	C
+95-1	T2161	Mawlid is a holiday in less than 32 countries.	C
+95-2	T2161	Mawlid is a holiday in less than 33 countries.	E
+95-9	T2161	Mawlid is a holiday in no more than 31 countries.	C
+95-10	T2161	Mawlid is a holiday in no more than 32 countries.	E
+95-11	T2161	Mawlid is a holiday in no more than 33 countries.	E
+95-12	T2161	Mawlid is a holiday in exactly 31 countries.	C
+95-13	T2161	Mawlid is a holiday in exactly 32 countries.	E
+95-14	T2161	Mawlid is a holiday in exactly 33 countries.	C
+95-15	T2161	Mawlid is a holiday in 31 countries.	E
+95-16	T2161	Mawlid is a holiday in 32 countries.	E
+95-17	T2161	Mawlid is a holiday in 33 countries.	C
+95-18	T2161	Mawlid is a holiday in at least 31 countries.	E
+95-19	T2161	Mawlid is a holiday in at least 32 countries.	E
+95-20	T2161	Mawlid is a holiday in at least 33 countries.	C
+95-24	T2161	Mawlid is a holiday in no less than 31 countries.	E
+95-25	T2161	Mawlid is a holiday in no less than 32 countries.	E
+95-26	T2161	Mawlid is a holiday in no less than 33 countries.	C
+95-27	T2161	Mawlid is a holiday in more than 31 countries.	E
+95-28	T2161	Mawlid is a holiday in more than 32 countries.	C
+95-29	T2161	Mawlid is a holiday in more than 33 countries.	C
+96-0	T2166	The MicroBee had less than two CPUs.	E
+96-5	T2166	The MicroBee had no more than one CPU.	E
+96-6	T2166	The MicroBee had no more than two CPUs.	E
+96-7	T2166	The MicroBee had exactly one CPU.	E
+96-8	T2166	The MicroBee had exactly two CPUs.	C
+96-9	T2166	The MicroBee had one CPU.	E
+96-10	T2166	The MicroBee had two CPUs.	C
+96-11	T2166	The MicroBee had at least one CPU.	E
+96-12	T2166	The MicroBee had at least two CPUs.	C
+96-15	T2166	The MicroBee had no less than one CPU.	E
+96-16	T2166	The MicroBee had no less than two CPUs.	C
+96-17	T2166	The MicroBee had more than one CPU.	C
+96-18	T2166	The MicroBee had more than two CPUs.	C
+97-0	T2167	Migraines have less than two causes and less than two risk factors.	C
+97-1	T2167	Migraines have less than three causes and less than three risk factors.	E
+97-8	T2167	Migraines have no more than one cause and no more than one risk factors.	C
+97-9	T2167	Migraines have no more than two causes and no more than two risk factors.	E
+97-10	T2167	Migraines have no more than three causes and no more than three risk factors.	E
+97-11	T2167	Migraines have exactly one cause and exactly one risk factors.	C
+97-12	T2167	Migraines have exactly two causes and exactly two risk factors.	E
+97-13	T2167	Migraines have exactly three causes and exactly three risk factors.	C
+97-14	T2167	Migraines have one cause and one risk factors.	E
+97-15	T2167	Migraines have two causes and two risk factors.	E
+97-16	T2167	Migraines have three causes and three risk factors.	C
+97-17	T2167	Migraines have at least one cause and at least one risk factors.	E
+97-18	T2167	Migraines have at least two causes and at least two risk factors.	E
+97-19	T2167	Migraines have at least three causes and at least three risk factors.	C
+97-23	T2167	Migraines have no less than one cause and no less than one risk factors.	E
+97-24	T2167	Migraines have no less than two causes and no less than two risk factors.	E
+97-25	T2167	Migraines have no less than three causes and no less than three risk factors.	C
+97-26	T2167	Migraines have more than one cause and more than one risk factors.	E
+97-27	T2167	Migraines have more than two causes and more than two risk factors.	C
+97-28	T2167	Migraines have more than three causes and more than three risk factors.	C
+98-0	T2231	There are less than two forms for Type 1 diabetes.	C
+98-1	T2231	There are less than three forms for Type 1 diabetes.	E
+98-8	T2231	There is no more than one form for Type 1 diabetes.	C
+98-9	T2231	There are no more than two forms for Type 1 diabetes.	E
+98-10	T2231	There are no more than three forms for Type 1 diabetes.	E
+98-11	T2231	There is exactly one form for Type 1 diabetes.	C
+98-12	T2231	There are exactly two forms for Type 1 diabetes.	E
+98-13	T2231	There are exactly three forms for Type 1 diabetes.	C
+98-14	T2231	There is one form for Type 1 diabetes.	E
+98-15	T2231	There are two forms for Type 1 diabetes.	E
+98-16	T2231	There are three forms for Type 1 diabetes.	C
+98-17	T2231	There is at least one form for Type 1 diabetes.	E
+98-18	T2231	There are at least two forms for Type 1 diabetes.	E
+98-19	T2231	There are at least three forms for Type 1 diabetes.	C
+98-23	T2231	There is no less than one form for Type 1 diabetes.	E
+98-24	T2231	There are no less than two forms for Type 1 diabetes.	E
+98-25	T2231	There are no less than three forms for Type 1 diabetes.	C
+98-26	T2231	There is more than one form for Type 1 diabetes.	E
+98-27	T2231	There are more than two forms for Type 1 diabetes.	C
+98-28	T2231	There are more than three forms for Type 1 diabetes.	C
+99-0	T2239	Vesak is known by less than five names.	C
+99-1	T2239	Vesak is known by less than six names.	C
+99-2	T2239	Vesak is known by less than seven names.	E
+99-9	T2239	Vesak is known by no more than five names.	C
+99-10	T2239	Vesak is known by no more than six names.	E
+99-11	T2239	Vesak is known by no more than seven names.	E
+99-12	T2239	Vesak is known by exactly five names.	C
+99-13	T2239	Vesak is known by exactly six names.	E
+99-14	T2239	Vesak is known by exactly seven names.	C
+99-15	T2239	Vesak is known by five names.	E
+99-16	T2239	Vesak is known by six names.	E
+99-17	T2239	Vesak is known by seven names.	C
+99-18	T2239	Vesak is known by at least five names.	E
+99-19	T2239	Vesak is known by at least six names.	E
+99-20	T2239	Vesak is known by at least seven names.	C
+99-24	T2239	Vesak is known by no less than five names.	E
+99-25	T2239	Vesak is known by no less than six names.	E
+99-26	T2239	Vesak is known by no less than seven names.	C
+99-27	T2239	Vesak is known by more than five names.	E
+99-28	T2239	Vesak is known by more than six names.	C
+99-29	T2239	Vesak is known by more than seven names.	C
+100-0	T2247	There were less than five consequences.	C
+100-1	T2247	There were less than six consequences.	C
+100-2	T2247	There were less than seven consequences.	E
+100-9	T2247	There were no more than five consequences.	C
+100-10	T2247	There were no more than six consequences.	E
+100-11	T2247	There were no more than seven consequences.	E
+100-12	T2247	There were exactly five consequences.	C
+100-13	T2247	There were exactly six consequences.	E
+100-14	T2247	There were exactly seven consequences.	C
+100-15	T2247	There were five consequences.	E
+100-16	T2247	There were six consequences.	E
+100-17	T2247	There were seven consequences.	C
+100-18	T2247	There were at least five consequences.	E
+100-19	T2247	There were at least six consequences.	E
+100-20	T2247	There were at least seven consequences.	C
+100-24	T2247	There were no less than five consequences.	E
+100-25	T2247	There were no less than six consequences.	E
+100-26	T2247	There were no less than seven consequences.	C
+100-27	T2247	There were more than five consequences.	E
+100-28	T2247	There were more than six consequences.	C
+100-29	T2247	There were more than seven consequences.	C
+101-0	T2268	The Union Turnpike Manhattan–Queens Express serves over less than six communities.	C
+101-1	T2268	The Union Turnpike Manhattan–Queens Express serves over less than seven communities.	C
+101-2	T2268	The Union Turnpike Manhattan–Queens Express serves over less than eight communities.	E
+101-9	T2268	The Union Turnpike Manhattan–Queens Express serves over no more than six communities.	C
+101-10	T2268	The Union Turnpike Manhattan–Queens Express serves over no more than seven communities.	E
+101-11	T2268	The Union Turnpike Manhattan–Queens Express serves over no more than eight communities.	E
+101-12	T2268	The Union Turnpike Manhattan–Queens Express serves over exactly six communities.	C
+101-13	T2268	The Union Turnpike Manhattan–Queens Express serves over exactly seven communities.	E
+101-14	T2268	The Union Turnpike Manhattan–Queens Express serves over exactly eight communities.	C
+101-15	T2268	The Union Turnpike Manhattan–Queens Express serves over six communities.	E
+101-16	T2268	The Union Turnpike Manhattan–Queens Express serves over seven communities.	E
+101-17	T2268	The Union Turnpike Manhattan–Queens Express serves over eight communities.	C
+101-18	T2268	The Union Turnpike Manhattan–Queens Express serves over at least six communities.	E
+101-19	T2268	The Union Turnpike Manhattan–Queens Express serves over at least seven communities.	E
+101-20	T2268	The Union Turnpike Manhattan–Queens Express serves over at least eight communities.	C
+101-24	T2268	The Union Turnpike Manhattan–Queens Express serves over no less than six communities.	E
+101-25	T2268	The Union Turnpike Manhattan–Queens Express serves over no less than seven communities.	E
+101-26	T2268	The Union Turnpike Manhattan–Queens Express serves over no less than eight communities.	C
+101-27	T2268	The Union Turnpike Manhattan–Queens Express serves over more than six communities.	E
+101-28	T2268	The Union Turnpike Manhattan–Queens Express serves over more than seven communities.	C
+101-29	T2268	The Union Turnpike Manhattan–Queens Express serves over more than eight communities.	C
+102-0	T2267	Quadriplegia has less than two types.	C
+102-1	T2267	Quadriplegia has less than three types.	E
+102-8	T2267	Quadriplegia has no more than one type.	C
+102-9	T2267	Quadriplegia has no more than two types.	E
+102-10	T2267	Quadriplegia has no more than three types.	E
+102-11	T2267	Quadriplegia has exactly one type.	C
+102-12	T2267	Quadriplegia has exactly two types.	E
+102-13	T2267	Quadriplegia has exactly three types.	C
+102-14	T2267	Quadriplegia has one type.	E
+102-15	T2267	Quadriplegia has two types.	E
+102-16	T2267	Quadriplegia has three types.	C
+102-17	T2267	Quadriplegia has at least one type.	E
+102-18	T2267	Quadriplegia has at least two types.	E
+102-19	T2267	Quadriplegia has at least three types.	C
+102-23	T2267	Quadriplegia has no less than one type.	E
+102-24	T2267	Quadriplegia has no less than two types.	E
+102-25	T2267	Quadriplegia has no less than three types.	C
+102-26	T2267	Quadriplegia has more than one type.	E
+102-27	T2267	Quadriplegia has more than two types.	C
+102-28	T2267	Quadriplegia has more than three types.	C
+103-0	T2256	Questions test less than five areas.	C
+103-1	T2256	Questions test less than six areas.	C
+103-2	T2256	Questions test less than seven areas.	E
+103-9	T2256	Questions test no more than five areas.	C
+103-10	T2256	Questions test no more than six areas.	E
+103-11	T2256	Questions test no more than seven areas.	E
+103-12	T2256	Questions test exactly five areas.	C
+103-13	T2256	Questions test exactly six areas.	E
+103-14	T2256	Questions test exactly seven areas.	C
+103-15	T2256	Questions test five areas.	E
+103-16	T2256	Questions test six areas.	E
+103-17	T2256	Questions test seven areas.	C
+103-18	T2256	Questions test at least five areas.	E
+103-19	T2256	Questions test at least six areas.	E
+103-20	T2256	Questions test at least seven areas.	C
+103-24	T2256	Questions test no less than five areas.	E
+103-25	T2256	Questions test no less than six areas.	E
+103-26	T2256	Questions test no less than seven areas.	C
+103-27	T2256	Questions test more than five areas.	E
+103-28	T2256	Questions test more than six areas.	C
+103-29	T2256	Questions test more than seven areas.	C
+104-0	T2253	Brighton Main Line has less than two termini.	C
+104-1	T2253	Brighton Main Line has less than three termini.	C
+104-2	T2253	Brighton Main Line has less than four termini.	E
+104-9	T2253	Brighton Main Line has no more than two termini.	C
+104-10	T2253	Brighton Main Line has no more than three termini.	E
+104-11	T2253	Brighton Main Line has no more than four termini.	E
+104-12	T2253	Brighton Main Line has exactly two termini.	C
+104-13	T2253	Brighton Main Line has exactly three termini.	E
+104-14	T2253	Brighton Main Line has exactly four termini.	C
+104-15	T2253	Brighton Main Line has two termini.	E
+104-16	T2253	Brighton Main Line has three termini.	E
+104-17	T2253	Brighton Main Line has four termini.	C
+104-18	T2253	Brighton Main Line has at least two termini.	E
+104-19	T2253	Brighton Main Line has at least three termini.	E
+104-20	T2253	Brighton Main Line has at least four termini.	C
+104-24	T2253	Brighton Main Line has no less than two termini.	E
+104-25	T2253	Brighton Main Line has no less than three termini.	E
+104-26	T2253	Brighton Main Line has no less than four termini.	C
+104-27	T2253	Brighton Main Line has more than two termini.	E
+104-28	T2253	Brighton Main Line has more than three termini.	C
+104-29	T2253	Brighton Main Line has more than four termini.	C
+105-0	T2260	Halloween is related to less than ten holidays.	C
+105-1	T2260	Halloween is related to less than 11 holidays.	C
+105-2	T2260	Halloween is related to less than 12 holidays.	E
+105-9	T2260	Halloween is related to no more than ten holidays.	C
+105-10	T2260	Halloween is related to no more than 11 holidays.	E
+105-11	T2260	Halloween is related to no more than 12 holidays.	E
+105-12	T2260	Halloween is related to exactly ten holidays.	C
+105-13	T2260	Halloween is related to exactly 11 holidays.	E
+105-14	T2260	Halloween is related to exactly 12 holidays.	C
+105-15	T2260	Halloween is related to ten holidays.	E
+105-16	T2260	Halloween is related to 11 holidays.	E
+105-17	T2260	Halloween is related to 12 holidays.	C
+105-18	T2260	Halloween is related to at least ten holidays.	E
+105-19	T2260	Halloween is related to at least 11 holidays.	E
+105-20	T2260	Halloween is related to at least 12 holidays.	C
+105-24	T2260	Halloween is related to no less than ten holidays.	E
+105-25	T2260	Halloween is related to no less than 11 holidays.	E
+105-26	T2260	Halloween is related to no less than 12 holidays.	C
+105-27	T2260	Halloween is related to more than ten holidays.	E
+105-28	T2260	Halloween is related to more than 11 holidays.	C
+105-29	T2260	Halloween is related to more than 12 holidays.	C
+106-0	T2253	Brighton Main Line serves less than two locales.	C
+106-1	T2253	Brighton Main Line serves less than three locales.	E
+106-8	T2253	Brighton Main Line serves no more than one locale.	C
+106-9	T2253	Brighton Main Line serves no more than two locales.	E
+106-10	T2253	Brighton Main Line serves no more than three locales.	E
+106-11	T2253	Brighton Main Line serves exactly one locale.	C
+106-12	T2253	Brighton Main Line serves exactly two locales.	E
+106-13	T2253	Brighton Main Line serves exactly three locales.	C
+106-14	T2253	Brighton Main Line serves one locale.	E
+106-15	T2253	Brighton Main Line serves two locales.	E
+106-16	T2253	Brighton Main Line serves three locales.	C
+106-17	T2253	Brighton Main Line serves at least one locale.	E
+106-18	T2253	Brighton Main Line serves at least two locales.	E
+106-19	T2253	Brighton Main Line serves at least three locales.	C
+106-23	T2253	Brighton Main Line serves no less than one locale.	E
+106-24	T2253	Brighton Main Line serves no less than two locales.	E
+106-25	T2253	Brighton Main Line serves no less than three locales.	C
+106-26	T2253	Brighton Main Line serves more than one locale.	E
+106-27	T2253	Brighton Main Line serves more than two locales.	C
+106-28	T2253	Brighton Main Line serves more than three locales.	C

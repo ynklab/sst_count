@@ -1,0 +1,6 @@
+{
+    "candc_loc": "/absolute_path_to/candc-1.00",
+    "ccg2lambda_loc": "/absolute_path_to/ccg2lambda",
+    "tregex_loc": "/absolute_path_to/stanford-tregex-2018-10-16",
+    "fasttext_model_loc": "/absolute_path_to/cc.en.300.bin"
+}

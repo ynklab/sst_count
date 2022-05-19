@@ -1,0 +1,3 @@
+index	case_index	child_index	table_id	hypothesis	gold	time	result
+0	0	0	T12	Faroe Islands has less than two languages.	C	28.871	False
+1	0	1	T12	Faroe Islands has less than three languages.	E	6.401	True
